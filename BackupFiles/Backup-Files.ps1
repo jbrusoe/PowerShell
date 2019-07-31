@@ -5,8 +5,9 @@ Written By: Jeff Brusoe (jbrusoe@gmail.com)
 Originally Written: October 1, 2017
 Last Updated: June 16, 2019
 
-The purpose of this file is to backup files from my laptop to my Google Drive directory to be
-synced and backed up to the cloud.
+The purpose of this file is to backup (both incremental and full) files from my laptop to my Google Drive directory to be
+synced and backed up to the cloud. It is obviously highly customized to my own environment, but can be modified fairly easily.
+It runs on scheduled tasks at various intervals.
 
 .DESCRIPTION
 This file is designed to copy data from my laptop to the TempBackupHolding directory (C:\Users\jbrus\Google Drive\Documents\TempBackupHolding).
@@ -84,6 +85,7 @@ param (
 	[switch]$Orienteering,
 	[switch]$FLL,
 	[switch]$MARS,
+	[switch]$GitHub
 	[switch]$AllPowerShell #Backs up all PoweShell files instead of just ps1
 	#[switch]$Anaconda3
 	)
@@ -123,9 +125,11 @@ if ($Zotero -OR $CodeSamples -OR $NuclearScience -OR $Orienteering -OR $MachineL
 	if ($FLL) { $DirectoriesToBackup += "C:\Users\jbrus\Google Drive\Documents\2018-FLL" }
 	if ($AllPowerShell) { $DirectoriesToBackup += "C:\Users\jbrus\Google Drive\Documents\ProgrammingClasses\CodeSamples\PowerShell" }
 	if ($MARS) { $DirectoriesToBackup += "C:\Users\jbrus\Google Drive\Documents\MARS" }
+	if ($GitHub) { $DirectoriesToBackup += "C:\Users\jbrus\Documents\GitHub"
 }
 else
 {
+	$DirectoriesToBackup += "C:\Users\jbrus\Documents\GitHub"
 	$DirectoriesToBackup += "C:\Users\jbrus\Zotero"
 	$DirectoriesToBackup += "C:\Users\jbrus\Google Drive\Documents\Research"
 	$DirectoriesToBackup += "C:\Users\jbrus\Google Drive\Documents\LiteratureReview"
@@ -138,8 +142,8 @@ else
 	$DirectoriesToBackup += "C:\Users\jbrus\Google Drive\Documents\PERWork"
 	$DirectoriesToBackup += "C:\Users\jbrus\Google Drive\Documents\SCFD620"
 	$DirectoriesToBackup += "C:\Users\jbrus\Google Drive\Documents\MARS"
-	#$DirectoriesToBackup += "C:\ProgramData\Anaconda3"
 }
+
 Write-Output "`nDirectories being backed up:"
 $DirectoriesToBackup
 
