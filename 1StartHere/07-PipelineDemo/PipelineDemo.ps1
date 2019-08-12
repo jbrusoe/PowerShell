@@ -1,0 +1,1 @@
+Get-Service | Where {$_.Status -eq "Running"}
