@@ -1,0 +1,42 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20181013202234
+Username: DESKTOP-51PJ1C0\jbrus
+RunAs User: DESKTOP-51PJ1C0\jbrus
+Configuration Name: 
+Machine: DESKTOP-51PJ1C0 (Microsoft Windows NT 10.0.17134.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 6892
+PSVersion: 5.1.17134.228
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17134.228
+BuildVersion: 10.0.17134.228
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Users\jbrus\Google Drive\Documents\ProgrammingMeritBadge\CodeSamples\PowerShell\PowerShellTranscript\TranscriptDemo.txt
+PS C:\Users\jbrus\Google Drive\Documents\ProgrammingMeritBadge\CodeSamples\PowerShell\PowerShellTranscript> dir
+
+
+    Directory: C:\Users\jbrus\Google Drive\Documents\ProgrammingMeritBadge\CodeSamples\PowerShell\PowerShellTranscript
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----       10/13/2018   8:22 PM            776 TranscriptDemo.txt
+
+
+PS C:\Users\jbrus\Google Drive\Documents\ProgrammingMeritBadge\CodeSamples\PowerShell\PowerShellTranscript> Get-Date
+
+Saturday, October 13, 2018 8:22:41 PM
+
+
+PS C:\Users\jbrus\Google Drive\Documents\ProgrammingMeritBadge\CodeSamples\PowerShell\PowerShellTranscript> Get-Date -Format yyyy-MM-dd-HH-mm
+2018-10-13-20-23
+PS C:\Users\jbrus\Google Drive\Documents\ProgrammingMeritBadge\CodeSamples\PowerShell\PowerShellTranscript> Stop-Transcript
+**********************
+Windows PowerShell transcript end
+End time: 20181013202328
+**********************
