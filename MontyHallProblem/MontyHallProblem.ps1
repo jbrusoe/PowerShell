@@ -4,47 +4,57 @@
 #Written by: Jeff Brusoe
 #Last Updated - August 16, 2019
 
-[int]$Trials = -1
+[string]$Trials = $null
 
-while ($Trials -le 0)
+#This block of code is used to get a valid number of trials.
+while ([string]::IsNullOrEmpty($Trials))
 {
 	#The purpose of the while loop is to ensure that
 	#the number of trials is valid(greater than 0, not a letter, etc.)
 	
 	try
 	{
-		$Trials = Read-Host "Number of trials: "
+		$Trials = Read-Host "Number of trials"
 		
 		#This code block detects potential errors that a user may enter.
 		if ([string]::IsNullOrEmpty($Trials))
 		{
 			#This is the case where the user just hit the enter key.
-			Write-Host "The number of trials must be assigned a value." -foregroundcolor Yellow
+			Write-Warning "The number of trials must be assigned a value."
 		}
-		elseif ($Trials -le 0)
+		elseif ([int]$Trials -le 0)
 		{
 			#The radius must be positive.
-			Write-Host "The radius must be greater than zero." -foregroundcolor Yellow
+			Write-Warning "The number of trials must be greater than zero."
+			$Trials = $null
+		}
+		else
+		{
+			Write-Output $("Number of trials: " + [int]$Trials)
 		}
 	}
 	catch
 	{
 		#This should only be executed if a nonnumeric values are entered for the number of trials.
-		Write-Host "The number of trials can't contain nonnumeric entries." -foregroundcolor Yellow
-		$Trials = 0.0
+		Write-Warning "The number of trials can't contain nonnumeric entries."
+		$Trials = $null
 	}
-	
 }
 
-<#
-GuessedDoor = 1 #Note: Guessed door will always be door one. This doesn't change the outcome.
-CorrectCount = 0
-SwitchedCorrectCount = 0
+
+$GuessedDoor = 1 #Note: Guessed door will always be door one. This doesn't change the outcome.
+$CorrectCount = 0
+$SwitchedCorrectCount = 0
 
 #First set of runs - without switching
-for i in range (1,Trials+1):
-    GuessedDoor = 1
-    print ("Trial " + str(i))
+for ($i = 1; $i -le [int]$Trials; $i++)
+{
+	$GuessedDoor = 1
+    
+	Write-Output "Trial: $i"
+}
+
+    <#
 
     #Randomly determine the correct door
     CorrectDoor = random.randrange(1,4)
