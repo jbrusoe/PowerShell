@@ -1,11 +1,11 @@
-#Monty Hall Problem Demo in Python
-#More information - 
+#Monty Hall Problem Demo in PoweShell (converted from code I wrote in Python)
+#More information - https://www.youtube.com/watch?v=4Lb-6rxZxx0
 #
 #Written by: Jeff Brusoe
+#Last Updated - August 16, 2019
 
-import random
-
-while True:
+while ($true)
+{
     #This loop ensures that a positive integer value is entered for the number of trials.
     try:
         Trials = int(input("How many trials do you want? "))
@@ -17,6 +17,7 @@ while True:
             print ("The number of trials must be an integer that is greater than 0.")
     except:
         print ("The number of trials can't have letters in it.")
+}
 
 GuessedDoor = 1 #Note: Guessed door will always be door one. This doesn't change the outcome.
 CorrectCount = 0
