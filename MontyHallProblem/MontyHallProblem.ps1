@@ -4,21 +4,39 @@
 #Written by: Jeff Brusoe
 #Last Updated - August 16, 2019
 
-while ($true)
-{
-    #This loop ensures that a positive integer value is entered for the number of trials.
-    try:
-        Trials = int(input("How many trials do you want? "))
+[int]$Trials = -1
 
-        if Trials > 0:
-            print ("You have selected " + str(Trials) + " trial runs.")
-            break
-        else:
-            print ("The number of trials must be an integer that is greater than 0.")
-    except:
-        print ("The number of trials can't have letters in it.")
+while ($Trials -le 0)
+{
+	#The purpose of the while loop is to ensure that
+	#the number of trials is valid(greater than 0, not a letter, etc.)
+	
+	try
+	{
+		$Trials = Read-Host "Number of trials: "
+		
+		#This code block detects potential errors that a user may enter.
+		if ([string]::IsNullOrEmpty($Trials))
+		{
+			#This is the case where the user just hit the enter key.
+			Write-Host "The number of trials must be assigned a value." -foregroundcolor Yellow
+		}
+		elseif ($Trials -le 0)
+		{
+			#The radius must be positive.
+			Write-Host "The radius must be greater than zero." -foregroundcolor Yellow
+		}
+	}
+	catch
+	{
+		#This should only be executed if a nonnumeric values are entered for the number of trials.
+		Write-Host "The number of trials can't contain nonnumeric entries." -foregroundcolor Yellow
+		$Trials = 0.0
+	}
+	
 }
 
+<#
 GuessedDoor = 1 #Note: Guessed door will always be door one. This doesn't change the outcome.
 CorrectCount = 0
 SwitchedCorrectCount = 0
@@ -72,8 +90,4 @@ print ("No switch ratio: ", str(NoSwitchRatio),"\n")
 print ("Correct Count - With Switch: ", str(SwitchedCorrectCount))
 SwitchedRatio = SwitchedCorrectCount/(Trials)
 print ("Switched Ratio: ", str(SwitchedRatio))
-
-
-    
-        
-    
+#>
