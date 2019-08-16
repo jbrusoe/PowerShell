@@ -113,7 +113,7 @@ Start-Transcript $($PSScriptRoot +"\" + "BackupTranscript" + "\" + $CurrentDate 
 #Specify which directories need to be backed up
 $DirectoriesToBackup = @()
 
-if ($Zotero -OR $CodeSamples -OR $NuclearScience -OR $Orienteering -OR $MachineLearning -OR $FLL -OR $AllPowerShell -OR $MARS)
+if ($Zotero -OR $CodeSamples -OR $NuclearScience -OR $Orienteering -OR $MachineLearning -OR $FLL -OR $AllPowerShell -OR $MARS -OR $GitHub)
 {
 	#These parameters are used to indicate that only a specific directory (or directories) is to be backed up.
 	
@@ -360,7 +360,7 @@ if ($FreeSpace -gt $MinimumFreeSpaceGB)
 	            }
 	            else
 	            {
-		            Write-Output "`nTotal Files Changed in this Directory: " + $FilesChanged
+		            Write-Output "`nTotal Files Changed in this Directory: $FilesChanged"
 	            }
 
             }
