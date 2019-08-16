@@ -41,7 +41,6 @@ while ([string]::IsNullOrEmpty($Trials))
 	}
 }
 
-
 $GuessedDoor = 1 #Note: Guessed door will always be door one. This doesn't change the outcome.
 $CorrectCount = 0
 $SwitchedCorrectCount = 0
@@ -52,13 +51,26 @@ for ($i = 1; $i -le [int]$Trials; $i++)
 	$GuessedDoor = 1
     
 	Write-Output "Trial: $i"
+	
+	#Randomly determine the correct door
+	$CorrectDoor = Get-Random -Minimum 1 -Maximum 4
+	Write-Output "Correct Door: $CorrectDoor"
+	
+	#With switching
+	if ($GuessedDoor -eq $CorrectDoor)
+	{
+		Write-Output "Correct - No switch required"
+		
+		$CorrectCount++
+		$BlockedDoor = Get-Random -Minimum 2 -Maximum 4
+	}
+	else
+	{
+		Write-Output "Incorrect without switch"
+	}
 }
 
     <#
-
-    #Randomly determine the correct door
-    CorrectDoor = random.randrange(1,4)
-    print ("Correct Door: " + str(CorrectDoor))
     
     if GuessedDoor == CorrectDoor:
         print ("Correct - No switch required")
@@ -89,10 +101,6 @@ for ($i = 1; $i -le [int]$Trials; $i++)
         print ("Switched Incorrect")
 
     print ("***********************")
-
-print ("Summary Information:")
-print("Total number of trials: ", Trials,"\n")
-
 print ("Correct Count - No Switch: ", str(CorrectCount))
 NoSwitchRatio = CorrectCount/(Trials)
 print ("No switch ratio: ", str(NoSwitchRatio),"\n")
@@ -101,3 +109,6 @@ print ("Correct Count - With Switch: ", str(SwitchedCorrectCount))
 SwitchedRatio = SwitchedCorrectCount/(Trials)
 print ("Switched Ratio: ", str(SwitchedRatio))
 #>
+
+Write-Output "Summary Information"
+Write-Output $("Total number of trials: " + [int]$Trials)
