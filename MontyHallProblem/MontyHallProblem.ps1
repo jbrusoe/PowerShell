@@ -109,9 +109,8 @@ $NoSwitchRatio = $CorrectCount/$Trials
 Write-Output "No switch ratio: $NoSwitchRatio"
 
 Write-Output "Correct Count - With Switch: $SwitchedCorrectCount"
-$SwitchedRatio = $SwitchedCorrectCount/(Trials)
-print ("Switched Ratio: ", str(SwitchedRatio))
-#>
+$SwitchedRatio = $SwitchedCorrectCount/$trials
+Write-Output "Switched Ratio: $SwitchedRatio"
 
 Write-Output "Summary Information"
 Write-Output $("Total number of trials: " + [int]$Trials)
