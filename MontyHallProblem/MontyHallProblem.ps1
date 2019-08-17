@@ -63,50 +63,53 @@ for ($i = 1; $i -le [int]$Trials; $i++)
 		
 		$CorrectCount++
 		$BlockedDoor = Get-Random -Minimum 2 -Maximum 4
+		
+		if ($BlockedDoor -eq 2)
+		{
+			$GuessedDoor = 3 
+		}
+		else
+		{
+			$GuessedDoor = 2
+		}
 	}
 	else
 	{
 		Write-Output "Incorrect without switch"
+		
+		if ($CorrectDoor -eq 2)
+		{
+			$BlockedDoor = 3
+			$GuessedDoor = 2
+		}
+		else
+		{
+			$BlockedDoor = 2
+			$GuessedDoor = 3
+		}
 	}
+	
+	Write-Output "Switched Door: $GuessedDoor"
+	
+	if ($GuessedDoor -eq $CorrectDoor)
+	{
+		$SwitchedCorrectCount++
+		Write-Output "Switched Correct"
+	}
+	else
+	{
+		Write-Output "Switched Incorrect"
+	}
+	
+	Write-Output "********************************"
 }
-
-    <#
     
-    if GuessedDoor == CorrectDoor:
-        print ("Correct - No switch required")
-        CorrectCount += 1
-        BlockedDoor = random.randrange(2,4)
-        if BlockedDoor == 2:
-            GuessedDoor = 3
-        else:
-            GuessedDoor = 2
-    else:
-        print ("Incorrect without switch")
+Write-Output "Correct Count - No Switch: $CorrectCount"
+$NoSwitchRatio = $CorrectCount/$Trials
+Write-Output "No switch ratio: $NoSwitchRatio"
 
-        if CorrectDoor == 2:
-            BlockedDoor = 3
-            GuessedDoor = 2
-        else:
-            BlockedDoor = 2
-            GuessedDoor = 3
-
-    #With switching
-
-    print("Switched Door: ", GuessedDoor)
-
-    if GuessedDoor == CorrectDoor:
-        SwitchedCorrectCount += 1
-        print ("Switched Correct")
-    else:
-        print ("Switched Incorrect")
-
-    print ("***********************")
-print ("Correct Count - No Switch: ", str(CorrectCount))
-NoSwitchRatio = CorrectCount/(Trials)
-print ("No switch ratio: ", str(NoSwitchRatio),"\n")
-
-print ("Correct Count - With Switch: ", str(SwitchedCorrectCount))
-SwitchedRatio = SwitchedCorrectCount/(Trials)
+Write-Output "Correct Count - With Switch: $SwitchedCorrectCount"
+$SwitchedRatio = $SwitchedCorrectCount/(Trials)
 print ("Switched Ratio: ", str(SwitchedRatio))
 #>
 
