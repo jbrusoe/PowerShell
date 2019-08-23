@@ -1,3 +1,7 @@
+#Trapezoidal Rule Demonstration
+#Written by: Jeff Brusoe
+#Last Updated: August 23, 2019
+
 #http://tutorial.math.lamar.edu/Classes/CalcII/ApproximatingDefIntegrals.aspx
 
 $NumberOfIntervals = [int](Read-Host "Number of Intervals")
