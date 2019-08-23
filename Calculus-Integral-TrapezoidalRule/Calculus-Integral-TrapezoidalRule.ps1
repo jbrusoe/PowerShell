@@ -1,7 +1,7 @@
 #http://tutorial.math.lamar.edu/Classes/CalcII/ApproximatingDefIntegrals.aspx
 
 $NumberOfIntervals = [int](Read-Host "Number of Intervals")
-Write-Output "Number of intervals: $NumberOfIntervals"
+Write-Output "Intervals: $NumberOfIntervals"
 
 $b = 5
 $a = 2
