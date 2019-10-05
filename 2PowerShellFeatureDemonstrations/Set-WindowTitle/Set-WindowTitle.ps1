@@ -1,0 +1,1 @@
+$host.ui.RawUI.WindowTitle = "PowerShell Window Title"
