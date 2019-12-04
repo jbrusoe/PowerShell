@@ -1,6 +1,8 @@
 #Set-LabVIEWService.ps1
 #Written by: Jeff Brusoe
 #Last Updated: December 1, 2019
+#
+#The purpose of this file is to start/stop services used by LabVIEW.
 
 param (
 	[string]$ServiceNames = "LV.txt",
@@ -11,6 +13,7 @@ param (
 #Environment configuration
 Clear-Host
 $Error.Clear()
+Set-Location $PSScriptRoot
 
 $TranscriptLog = $PSScriptRoot + "\Logs\" + (Get-Date -Format yyyy-MM-dd-HH-mm) + "-SessionTranscript.txt"
 Write-Verbose "Transcript Log File: $TranscriptLog"
@@ -30,6 +33,14 @@ else
 	$LVServices = Get-Content $ServiceNames
 }
 
+if ($Error.Count -gt 0)
+{
+	Write-Warning "Program is exiting due to error."
+	Stop-Transcript
+	return
+}
+
+#Assuming no error, now loop through services.
 foreach ($LVService in $LVServices)
 {	
 	try
@@ -55,6 +66,7 @@ foreach ($LVService in $LVServices)
 		
 		if ($Testing)
 		{
+			Stop-Transcript
 			return
 		}
 	}
