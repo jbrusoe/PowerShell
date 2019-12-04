@@ -1,4 +1,5 @@
 param (
+	[string]$ServiceNames = "LV.txt",
 	[switch]$StopServices,
 	[switch]$Testing
 	)
@@ -13,22 +14,31 @@ Write-Verbose "Transcript Log File: $TranscriptLog"
 Start-Transcript $TranscriptLog
 #End of environment configuration
 
-$LVServices = "lkClassAds","lkTimeSync","mxssvr","NIApplicationWebServer","niauth","NIDomainService","niLXIDiscovery","nimDNSResponder","NINetworkDiscovery","nipxicmsvc","nipxirmu","niroco","NiSvcLoc","NISystemWebServer","NITaggerService"
+$LVServices = Get-Content $ServiceNames
+
+if ($StopServices)
+{
+	$LVServices = Get-WMIObject Win32_Service | where {$_.DisplayName -clike "*NI *" -AND $_.State -eq "Running" }
+}
 
 foreach ($LVService in $LVServices)
 {	
-	Write-Output "Service Name: $LVService"
+	
 	
 	try
 	{
 		if (!$StopServices)
 		{
-			Get-Service $LVService | Start-Service -ea "Stop"
+			Write-Output "Starting Service: $LVService"
+			
+			Get-Service $LVService.Trim() | Start-Service -ea "Stop"
 			Write-Output "Successfully started service"
 		}
 		else
 		{
-			Get-Service $LVService | Stop-Service -ea "Stop" -Force
+			Write-Output $("Stopping Service: " + $LVService.DisplayName)
+			
+			$LVService | Stop-Service -ea "Stop" -Force
 			Write-Output "Successfully stopped service"
 		}
 	}
