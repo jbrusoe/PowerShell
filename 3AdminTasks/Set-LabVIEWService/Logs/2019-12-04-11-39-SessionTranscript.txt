@@ -1,0 +1,189 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20191204113907
+Username: DESKTOP-1MQ9DJO\jbrus
+RunAs User: DESKTOP-1MQ9DJO\jbrus
+Configuration Name: 
+Machine: DESKTOP-1MQ9DJO (Microsoft Windows NT 10.0.18363.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 1192
+PSVersion: 5.1.18362.145
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.18362.145
+BuildVersion: 10.0.18362.145
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Users\jbrus\Documents\GitHub\PowerShell\3AdminTasks\Start-LabVIEWService\Logs\2019-12-04-11-39-SessionTranscript.txt
+Service Name: \\DESKTOP-1MQ9DJO\root\cimv2:Win32_Service.Name="lkClassAds"
+Successfully stopped service
+*******************
+Service Name: \\DESKTOP-1MQ9DJO\root\cimv2:Win32_Service.Name="lkTimeSync"
+Successfully stopped service
+*******************
+Service Name: \\DESKTOP-1MQ9DJO\root\cimv2:Win32_Service.Name="mxssvr"
+Successfully stopped service
+*******************
+Service Name: \\DESKTOP-1MQ9DJO\root\cimv2:Win32_Service.Name="niauth"
+Successfully stopped service
+*******************
+Service Name: \\DESKTOP-1MQ9DJO\root\cimv2:Win32_Service.Name="nidevldu"
+Successfully stopped service
+*******************
+Service Name: \\DESKTOP-1MQ9DJO\root\cimv2:Win32_Service.Name="NIDomainService"
+Successfully stopped service
+*******************
+Service Name: \\DESKTOP-1MQ9DJO\root\cimv2:Win32_Service.Name="niLXIDiscovery"
+Successfully stopped service
+*******************
+Service Name: \\DESKTOP-1MQ9DJO\root\cimv2:Win32_Service.Name="nimDNSResponder"
+Successfully stopped service
+*******************
+Service Name: \\DESKTOP-1MQ9DJO\root\cimv2:Win32_Service.Name="NINetworkDiscovery"
+Successfully stopped service
+*******************
+Service Name: \\DESKTOP-1MQ9DJO\root\cimv2:Win32_Service.Name="nipxicmsvc"
+Successfully stopped service
+*******************
+Service Name: \\DESKTOP-1MQ9DJO\root\cimv2:Win32_Service.Name="nipxirmu"
+Successfully stopped service
+*******************
+Service Name: \\DESKTOP-1MQ9DJO\root\cimv2:Win32_Service.Name="niroco"
+WARNING: Waiting for service 'NI Route Coordinator (niroco)' to stop...
+WARNING: Waiting for service 'NI Route Coordinator (niroco)' to stop...
+WARNING: Waiting for service 'NI Route Coordinator (niroco)' to stop...
+WARNING: Waiting for service 'NI Route Coordinator (niroco)' to stop...
+WARNING: Waiting for service 'NI Route Coordinator (niroco)' to stop...
+Successfully stopped service
+*******************
+Service Name: \\DESKTOP-1MQ9DJO\root\cimv2:Win32_Service.Name="nisds"
+Successfully stopped service
+*******************
+Service Name: \\DESKTOP-1MQ9DJO\root\cimv2:Win32_Service.Name="NiSvcLoc"
+Successfully stopped service
+*******************
+PS C:\Users\jbrus\Documents\GitHub\PowerShell\3AdminTasks\Start-LabVIEWService> cls
+PS C:\Users\jbrus\Documents\GitHub\PowerShell\3AdminTasks\Start-LabVIEWService> .\Start-LabVIEWService.ps1
+Transcript started, output file is C:\Users\jbrus\Documents\GitHub\PowerShell\3AdminTasks\Start-LabVIEWService\Logs\2019-12-04-11-40-SessionTranscript.txt
+Starting Service: niauth
+Successfully started service
+*******************
+Starting Service: nidevldu
+Successfully started service
+*******************
+Starting Service: NIDomainService
+Successfully started service
+*******************
+Starting Service: niLXIDiscovery
+Successfully started service
+*******************
+Starting Service: nimDNSResponder
+Successfully started service
+*******************
+Starting Service: NINetworkDiscovery
+Successfully started service
+*******************
+Starting Service: nipxicmsvc
+Successfully started service
+*******************
+Starting Service: nipxirmu
+Successfully started service
+*******************
+Starting Service: niroco
+Successfully started service
+*******************
+Starting Service: nisds
+Successfully started service
+*******************
+Starting Service: NiSvcLoc
+Successfully started service
+*******************
+PS C:\Users\jbrus\Documents\GitHub\PowerShell\3AdminTasks\Start-LabVIEWService> .\Start-LabVIEWService.ps1 -StopServices
+Transcript started, output file is C:\Users\jbrus\Documents\GitHub\PowerShell\3AdminTasks\Start-LabVIEWService\Logs\2019-12-04-11-41-SessionTranscript.txt
+Stopping Service: NI PSP Service Locator
+Successfully stopped service
+*******************
+Stopping Service: NI Configuration Manager
+WARNING: Waiting for service 'NI Configuration Manager (mxssvr)' to stop...
+WARNING: Waiting for service 'NI Configuration Manager (mxssvr)' to stop...
+Successfully stopped service
+*******************
+Stopping Service: NI Authentication Service
+Successfully stopped service
+*******************
+Stopping Service: NI Device Loader
+Successfully stopped service
+*******************
+Stopping Service: NI Domain Service
+Successfully stopped service
+*******************
+Stopping Service: NI LXI Discovery Service
+Successfully stopped service
+*******************
+Stopping Service: NI mDNS Responder Service
+Successfully stopped service
+*******************
+Stopping Service: NI Network Discovery
+Successfully stopped service
+*******************
+Stopping Service: NI PXI Chassis Management Service
+Successfully stopped service
+*******************
+Stopping Service: NI PXI Resource Manager
+Successfully stopped service
+*******************
+Stopping Service: NI Route Coordinator
+WARNING: Waiting for service 'NI Route Coordinator (niroco)' to stop...
+WARNING: Waiting for service 'NI Route Coordinator (niroco)' to stop...
+WARNING: Waiting for service 'NI Route Coordinator (niroco)' to stop...
+WARNING: Waiting for service 'NI Route Coordinator (niroco)' to stop...
+WARNING: Waiting for service 'NI Route Coordinator (niroco)' to stop...
+WARNING: Waiting for service 'NI Route Coordinator (niroco)' to stop...
+WARNING: Waiting for service 'NI Route Coordinator (niroco)' to stop...
+WARNING: Waiting for service 'NI Route Coordinator (niroco)' to stop...
+WARNING: Waiting for service 'NI Route Coordinator (niroco)' to stop...
+Successfully stopped service
+*******************
+Stopping Service: NI Sync Domain Service
+Successfully stopped service
+*******************
+Stopping Service: NI Service Locator
+Successfully stopped service
+*******************
+PS C:\Users\jbrus\Documents\GitHub\PowerShell\3AdminTasks\Start-LabVIEWService> .\Start-LabVIEWService.ps1
+Transcript started, output file is C:\Users\jbrus\Documents\GitHub\PowerShell\3AdminTasks\Start-LabVIEWService\Logs\2019-12-04-11-42-SessionTranscript.txt
+Starting Service: niauth
+Successfully started service
+*******************
+Starting Service: nidevldu
+Successfully started service
+*******************
+Starting Service: NIDomainService
+Successfully started service
+*******************
+Starting Service: niLXIDiscovery
+Successfully started service
+*******************
+Starting Service: nimDNSResponder
+Successfully started service
+*******************
+Starting Service: NINetworkDiscovery
+Successfully started service
+*******************
+Starting Service: nipxicmsvc
+Successfully started service
+*******************
+Starting Service: nipxirmu
+Successfully started service
+*******************
+Starting Service: niroco
+Successfully started service
+*******************
+Starting Service: nisds
+Successfully started service
+*******************
+Starting Service: NiSvcLoc
+Successfully started service
+*******************

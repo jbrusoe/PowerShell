@@ -1,0 +1,35 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20200111162431
+Username: DESKTOP-1MQ9DJO\jbrus
+RunAs User: DESKTOP-1MQ9DJO\jbrus
+Configuration Name: 
+Machine: DESKTOP-1MQ9DJO (Microsoft Windows NT 10.0.18363.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 11888
+PSVersion: 5.1.18362.145
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.18362.145
+BuildVersion: 10.0.18362.145
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Users\jbrus\Documents\GitHub\PowerShell\4HomeworkFiles\BackupFiles\BackupTranscript\2020-01-11-16-24-BackupTranscript.txt
+
+Directories being backed up:
+C:\Users\jbrus\Documents\GitHub
+Backup Type: Full
+
+Beginning backups
+
+Drive Freespace: 13 GB
+BackupDirectoryRoot: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\\2020-01-11-16-24-Incremental-Backups
+WARNING: Drive space is under 20 GB. Backups will not be performed.
+***********************
+Total Number of Files Backed Up: 0
+**********************
+Windows PowerShell transcript end
+End time: 20200111162431
+**********************

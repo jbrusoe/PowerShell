@@ -1,0 +1,84 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20191201102923
+Username: DESKTOP-1MQ9DJO\jbrus
+RunAs User: DESKTOP-1MQ9DJO\jbrus
+Configuration Name: 
+Machine: DESKTOP-1MQ9DJO (Microsoft Windows NT 10.0.18363.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 7964
+PSVersion: 5.1.18362.145
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.18362.145
+BuildVersion: 10.0.18362.145
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Users\jbrus\Documents\GitHub\PowerShell\3AdminTasks\Start-LabVIEWService\Logs\2019-12-01-10-29-SessionTranscript.txt
+Service Name:
+PS>TerminatingError(Stop-Service): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Service 'Application Information (Appinfo)' stop failed."
+WARNING: Error starting/stopping service
+*******************
+Service Name:
+PS>TerminatingError(Stop-Service): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Service 'Application Information (Appinfo)' stop failed."
+WARNING: Error starting/stopping service
+*******************
+Service Name:
+PS>TerminatingError(Stop-Service): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Service 'Application Information (Appinfo)' cannot be stopped due to the following error: Cannot stop Appinfo service on computer '.'."
+WARNING: Error starting/stopping service
+*******************
+Service Name:
+PS>TerminatingError(Stop-Service): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Service 'Application Information (Appinfo)' cannot be stopped due to the following error: Cannot stop Appinfo service on computer '.'."
+WARNING: Error starting/stopping service
+*******************
+Service Name:
+PS>TerminatingError(Stop-Service): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Service 'Application Information (Appinfo)' cannot be stopped due to the following error: Cannot stop Appinfo service on computer '.'."
+WARNING: Error starting/stopping service
+*******************
+Service Name:
+PS>TerminatingError(Stop-Service): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Service 'Application Information (Appinfo)' cannot be stopped due to the following error: Cannot stop Appinfo service on computer '.'."
+WARNING: Error starting/stopping service
+*******************
+Service Name:
+PS>TerminatingError(Stop-Service): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Service 'Application Information (Appinfo)' cannot be stopped due to the following error: Cannot stop Appinfo service on computer '.'."
+WARNING: Error starting/stopping service
+*******************
+Service Name:
+PS>TerminatingError(Stop-Service): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Service 'Application Information (Appinfo)' cannot be stopped due to the following error: Cannot stop Appinfo service on computer '.'."
+WARNING: Error starting/stopping service
+*******************
+Service Name:
+PS>TerminatingError(Stop-Service): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Service 'Application Information (Appinfo)' cannot be stopped due to the following error: Cannot stop Appinfo service on computer '.'."
+WARNING: Error starting/stopping service
+*******************
+Service Name:
+PS>TerminatingError(Stop-Service): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Service 'Application Information (Appinfo)' cannot be stopped due to the following error: Cannot stop Appinfo service on computer '.'."
+WARNING: Error starting/stopping service
+*******************
+Service Name:
+PS>TerminatingError(Stop-Service): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Service 'Application Information (Appinfo)' cannot be stopped due to the following error: Cannot stop Appinfo service on computer '.'."
+WARNING: Error starting/stopping service
+*******************
+Service Name:
+PS>TerminatingError(Stop-Service): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Service 'Application Information (Appinfo)' cannot be stopped due to the following error: Cannot stop Appinfo service on computer '.'."
+WARNING: Error starting/stopping service
+*******************
+Service Name:
+PS>TerminatingError(Stop-Service): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Service 'Application Information (Appinfo)' cannot be stopped due to the following error: Cannot stop Appinfo service on computer '.'."
+WARNING: Error starting/stopping service
+*******************
+Service Name:
+PS>TerminatingError(Stop-Service): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Service 'Application Information (Appinfo)' cannot be stopped due to the following error: Cannot stop Appinfo service on computer '.'."
+WARNING: Error starting/stopping service
+*******************
+Service Name:
+PS>TerminatingError(Stop-Service): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Service 'Application Information (Appinfo)' cannot be stopped due to the following error: Cannot stop Appinfo service on computer '.'."
+WARNING: Error starting/stopping service
+*******************
+PS C:\Users\jbrus\Documents\GitHub\PowerShell\3AdminTasks\Start-LabVIEWService> .\Start-LabVIEWService.ps1 -StopServices
+**********************
+Windows PowerShell transcript end
+End time: 20191201102951
+**********************

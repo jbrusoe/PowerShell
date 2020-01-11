@@ -1,0 +1,67 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20191204120110
+Username: DESKTOP-1MQ9DJO\jbrus
+RunAs User: DESKTOP-1MQ9DJO\jbrus
+Configuration Name: 
+Machine: DESKTOP-1MQ9DJO (Microsoft Windows NT 10.0.18363.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 4176
+PSVersion: 5.1.18362.145
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.18362.145
+BuildVersion: 10.0.18362.145
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Users\jbrus\Documents\GitHub\PowerShell\3AdminTasks\Set-LabVIEWService\Logs\2019-12-04-12-01-SessionTranscript.txt
+Stopping Service: NI PSP Service Locator
+Successfully stopped service
+*******************
+Stopping Service: NI Configuration Manager
+Successfully stopped service
+*******************
+Stopping Service: NI Authentication Service
+Successfully stopped service
+*******************
+Stopping Service: NI Device Loader
+Successfully stopped service
+*******************
+Stopping Service: NI Domain Service
+Successfully stopped service
+*******************
+Stopping Service: NI LXI Discovery Service
+Successfully stopped service
+*******************
+Stopping Service: NI mDNS Responder Service
+Successfully stopped service
+*******************
+Stopping Service: NI Network Discovery
+Successfully stopped service
+*******************
+Stopping Service: NI PXI Chassis Management Service
+Successfully stopped service
+*******************
+Stopping Service: NI PXI Resource Manager
+Successfully stopped service
+*******************
+Stopping Service: NI Route Coordinator
+WARNING: Waiting for service 'NI Route Coordinator (niroco)' to stop...
+WARNING: Waiting for service 'NI Route Coordinator (niroco)' to stop...
+WARNING: Waiting for service 'NI Route Coordinator (niroco)' to stop...
+WARNING: Waiting for service 'NI Route Coordinator (niroco)' to stop...
+WARNING: Waiting for service 'NI Route Coordinator (niroco)' to stop...
+Successfully stopped service
+*******************
+Stopping Service: NI Sync Domain Service
+Successfully stopped service
+*******************
+Stopping Service: NI Service Locator
+Successfully stopped service
+*******************
+**********************
+Windows PowerShell transcript end
+End time: 20191204120124
+**********************
