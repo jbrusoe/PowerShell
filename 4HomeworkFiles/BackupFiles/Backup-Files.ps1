@@ -125,7 +125,7 @@ if ($Zotero -OR $CodeSamples -OR $NuclearScience -OR $Orienteering -OR $MachineL
 	if ($FLL) { $DirectoriesToBackup += "C:\Users\jbrus\Google Drive\Documents\2018-FLL" }
 	if ($AllPowerShell) { $DirectoriesToBackup += "C:\Users\jbrus\Google Drive\Documents\ProgrammingClasses\CodeSamples\PowerShell" }
 	if ($MARS) { $DirectoriesToBackup += "C:\Users\jbrus\Google Drive\Documents\MARS" }
-	if ($GitHub) { $DirectoriesToBackup += "C:\Users\jbrus\Documents\GitHub" }
+	if ($GitHub) { $DirectoriesToBackup += "C:\Users\jbrus\Documents\GitHub" ; $DirectoriesToBackup += "C:\MARSGitHubRepo" }
 }
 else
 {
