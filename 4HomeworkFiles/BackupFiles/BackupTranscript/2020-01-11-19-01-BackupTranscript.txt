@@ -13263,3 +13263,496 @@ Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiF
 VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache".
 File Count: 77
 Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\obj\Debug\DisableWiFi.csprojAssemblyReference.cache
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\obj\Debug\DisableWiFi.csprojAssemblyReference.cache Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\obj\Debug\DisableWiFi.csprojAssemblyReference.cache".
+File Count: 78
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\Properties
+VERBOSE: Performing the operation "Copy Directory" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\Properties Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\Properties".
+VERBOSE: Performing the operation "Create Directory" on target "Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\Properties".
+File Count: 79
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\Properties\AssemblyInfo.cs
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\Properties\AssemblyInfo.cs Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\Properties\AssemblyInfo.cs".
+File Count: 80
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\Properties\Resources.Designer.cs
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\Properties\Resources.Designer.cs Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\Properties\Resources.Designer.cs".
+File Count: 81
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\Properties\Resources.resx
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\Properties\Resources.resx Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\Properties\Resources.resx".
+File Count: 82
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\Properties\Settings.Designer.cs
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\Properties\Settings.Designer.cs Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\Properties\Settings.Designer.cs".
+File Count: 83
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\Properties\Settings.settings
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\Properties\Settings.settings Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\Properties\Settings.settings".
+File Count: 84
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\App.config
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\App.config Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\App.config".
+File Count: 85
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\DisableWiFi.csproj
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\DisableWiFi.csproj Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\DisableWiFi.csproj".
+File Count: 86
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\DisableWiFi.sln
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\DisableWiFi.sln Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\DisableWiFi.sln".
+File Count: 87
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\Form1.cs
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\Form1.cs Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\Form1.cs".
+File Count: 88
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\Form1.Designer.cs
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\Form1.Designer.cs Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\Form1.Designer.cs".
+File Count: 89
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\Form1.resx
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\Form1.resx Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\Form1.resx".
+File Count: 90
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\Program.cs
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\Program.cs Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\DisableWiFi\Program.cs".
+File Count: 91
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\README.md
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\README.md Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\CSharp\README.md".
+File Count: 92
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\PowerShell
+VERBOSE: Performing the operation "Copy Directory" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\PowerShell Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\PowerShell".
+VERBOSE: Performing the operation "Create Directory" on target "Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\PowerShell".
+File Count: 93
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\PowerShell\Disable-Wifi.ps1
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\PowerShell\Disable-Wifi.ps1 Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\PowerShell\Disable-Wifi.ps1".
+File Count: 94
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\Python
+VERBOSE: Performing the operation "Copy Directory" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\Python Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\Python".
+VERBOSE: Performing the operation "Create Directory" on target "Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\Python".
+File Count: 95
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\Python\DisableWifi.py
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\Python\DisableWifi.py Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\DisableWiFi\Python\DisableWifi.py".
+File Count: 96
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\LabVIEW-Code
+VERBOSE: Performing the operation "Copy Directory" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\LabVIEW-Code Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\LabVIEW-Code".
+VERBOSE: Performing the operation "Create Directory" on target "Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\LabVIEW-Code".
+File Count: 97
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\LabVIEW-Code\README.md
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\LabVIEW-Code\README.md Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\LabVIEW-Code\README.md".
+File Count: 98
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\Mechanical
+VERBOSE: Performing the operation "Copy Directory" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\Mechanical Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\Mechanical".
+VERBOSE: Performing the operation "Create Directory" on target "Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\Mechanical".
+File Count: 99
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\Mechanical\Tormach Operators Manual UM10372_PCNC440_Manual_0819A_Web.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\Mechanical\Tormach Operators Manual UM10372_PCNC440_Manual_0819A_Web.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\Mechanical\Tormach Operators Manual UM10372_PCNC440_Manual_0819A_Web.pdf".
+File Count: 100
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\Misc
+VERBOSE: Performing the operation "Copy Directory" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\Misc Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\Misc".
+VERBOSE: Performing the operation "Create Directory" on target "Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\Misc".
+File Count: 101
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\Misc\PastEvents.md
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\Misc\PastEvents.md Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\Misc\PastEvents.md".
+File Count: 102
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\Software
+VERBOSE: Performing the operation "Copy Directory" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\Software Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\Software".
+VERBOSE: Performing the operation "Create Directory" on target "Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\Software".
+File Count: 103
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\Software\FRC_Radio_Configuration_19_1_1.zip
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\Software\FRC_Radio_Configuration_19_1_1.zip Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\Software\FRC_Radio_Configuration_19_1_1.zip".
+File Count: 104
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\SubVITesting
+VERBOSE: Performing the operation "Copy Directory" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\SubVITesting Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\SubVITesting".
+VERBOSE: Performing the operation "Create Directory" on target "Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\SubVITesting".
+File Count: 105
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\SubVITesting\SubVIs
+VERBOSE: Performing the operation "Copy Directory" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\SubVITesting\SubVIs Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\SubVITesting\SubVIs".
+VERBOSE: Performing the operation "Create Directory" on target "Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\SubVITesting\SubVIs".
+File Count: 106
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\SubVITesting\SubVIs\HeightFunction.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\SubVITesting\SubVIs\HeightFunction.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\SubVITesting\SubVIs\HeightFunction.vi".
+File Count: 107
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\SubVITesting\SubVIs\Time motion formula(SubVI).vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\SubVITesting\SubVIs\Time motion formula(SubVI).vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\SubVITesting\SubVIs\Time motion formula(SubVI).vi".
+File Count: 108
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\SubVITesting\Grady.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\SubVITesting\Grady.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\SubVITesting\Grady.vi".
+File Count: 109
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\SubVITesting\Pratham.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\SubVITesting\Pratham.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\SubVITesting\Pratham.vi".
+File Count: 110
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders
+VERBOSE: Performing the operation "Copy Directory" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders".
+VERBOSE: Performing the operation "Create Directory" on target "Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders".
+File Count: 111
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady
+VERBOSE: Performing the operation "Copy Directory" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady".
+VERBOSE: Performing the operation "Create Directory" on target "Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady".
+File Count: 112
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\2019 roboRIO Project.aliases
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\2019 roboRIO Project.aliases Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\2019 roboRIO Project.aliases".
+File Count: 113
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\2020 roboRIO Project.aliases
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\2020 roboRIO Project.aliases Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\2020 roboRIO Project.aliases".
+File Count: 114
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\Autonomous Independent.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\Autonomous Independent.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\Autonomous Independent.vi".
+File Count: 115
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\Begin.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\Begin.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\Begin.vi".
+File Count: 116
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\Disabled.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\Disabled.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\Disabled.vi".
+File Count: 117
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\Elapsed Times.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\Elapsed Times.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\Elapsed Times.vi".
+File Count: 118
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\Finish.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\Finish.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\Finish.vi".
+File Count: 119
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\Periodic Tasks.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\Periodic Tasks.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\Periodic Tasks.vi".
+File Count: 120
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\RisingEdgeTrigger.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\RisingEdgeTrigger.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\RisingEdgeTrigger.vi".
+File Count: 121
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\Robot Global Data.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\Robot Global Data.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\Robot Global Data.vi".
+File Count: 122
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\Robot Main.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\Robot Main.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\Robot Main.vi".
+File Count: 123
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\Teleop.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\Teleop.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\Teleop.vi".
+File Count: 124
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\Test.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\Test.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\Test.vi".
+File Count: 125
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\testing for encoders.aliases
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\testing for encoders.aliases Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\testing for encoders.aliases".
+File Count: 126
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\testing for encoders.lvlps
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\testing for encoders.lvlps Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\testing for encoders.lvlps".
+File Count: 127
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\testing for encoders.lvproj
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\testing for encoders.lvproj Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\testing for encoders.lvproj".
+File Count: 128
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\TimeAboveThreshold.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\TimeAboveThreshold.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\TimeAboveThreshold.vi".
+File Count: 129
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\Untitled 1 (SubVI).vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\Untitled 1 (SubVI).vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\Untitled 1 (SubVI).vi".
+File Count: 130
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\Vision Processing.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\Vision Processing.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\Vision Processing.vi".
+File Count: 131
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\weird library thing.lvlib
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\weird library thing.lvlib Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Grady\weird library thing.lvlib".
+File Count: 132
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa
+VERBOSE: Performing the operation "Copy Directory" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa".
+VERBOSE: Performing the operation "Create Directory" on target "Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa".
+File Count: 133
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\2019 roboRIO Project.aliases
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\2019 roboRIO Project.aliases Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\2019 roboRIO Project.aliases".
+File Count: 134
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\2020 roboRIO Project.aliases
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\2020 roboRIO Project.aliases Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\2020 roboRIO Project.aliases".
+File Count: 135
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\Autonomous Independent.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\Autonomous Independent.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\Autonomous Independent.vi".
+File Count: 136
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\Begin.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\Begin.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\Begin.vi".
+File Count: 137
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\Disabled.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\Disabled.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\Disabled.vi".
+File Count: 138
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\Elapsed Times.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\Elapsed Times.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\Elapsed Times.vi".
+File Count: 139
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\Finish.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\Finish.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\Finish.vi".
+File Count: 140
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\Periodic Tasks.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\Periodic Tasks.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\Periodic Tasks.vi".
+File Count: 141
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\RisingEdgeTrigger.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\RisingEdgeTrigger.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\RisingEdgeTrigger.vi".
+File Count: 142
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\Robot Global Data.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\Robot Global Data.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\Robot Global Data.vi".
+File Count: 143
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\Robot Main.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\Robot Main.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\Robot Main.vi".
+File Count: 144
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\Teleop.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\Teleop.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\Teleop.vi".
+File Count: 145
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\Test.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\Test.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\Test.vi".
+File Count: 146
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\testing for encoders.aliases
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\testing for encoders.aliases Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\testing for encoders.aliases".
+File Count: 147
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\testing for encoders.lvlps
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\testing for encoders.lvlps Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\testing for encoders.lvlps".
+File Count: 148
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\testing for encoders.lvproj
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\testing for encoders.lvproj Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\testing for encoders.lvproj".
+File Count: 149
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\TimeAboveThreshold.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\TimeAboveThreshold.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\TimeAboveThreshold.vi".
+File Count: 150
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\Vision Processing.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\Vision Processing.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Khensa\Vision Processing.vi".
+File Count: 151
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code
+VERBOSE: Performing the operation "Copy Directory" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code".
+VERBOSE: Performing the operation "Create Directory" on target "Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code".
+File Count: 152
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\2019 roboRIO Project.aliases
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\2019 roboRIO Project.aliases Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\2019 roboRIO Project.aliases".
+File Count: 153
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\2020 roboRIO Project.aliases
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\2020 roboRIO Project.aliases Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\2020 roboRIO Project.aliases".
+File Count: 154
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\Autonomous Independent.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\Autonomous Independent.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\Autonomous Independent.vi".
+File Count: 155
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\Begin.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\Begin.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\Begin.vi".
+File Count: 156
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\Disabled.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\Disabled.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\Disabled.vi".
+File Count: 157
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\Elapsed Times.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\Elapsed Times.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\Elapsed Times.vi".
+File Count: 158
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\Finish.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\Finish.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\Finish.vi".
+File Count: 159
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\Periodic Tasks.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\Periodic Tasks.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\Periodic Tasks.vi".
+File Count: 160
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\RisingEdgeTrigger.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\RisingEdgeTrigger.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\RisingEdgeTrigger.vi".
+File Count: 161
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\Robot Global Data.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\Robot Global Data.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\Robot Global Data.vi".
+File Count: 162
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\Robot Main.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\Robot Main.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\Robot Main.vi".
+File Count: 163
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\Teleop.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\Teleop.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\Teleop.vi".
+File Count: 164
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\Test.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\Test.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\Test.vi".
+File Count: 165
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\testing for encoders.aliases
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\testing for encoders.aliases Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\testing for encoders.aliases".
+File Count: 166
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\testing for encoders.lvlps
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\testing for encoders.lvlps Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\testing for encoders.lvlps".
+File Count: 167
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\testing for encoders.lvproj
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\testing for encoders.lvproj Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\testing for encoders.lvproj".
+File Count: 168
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\TimeAboveThreshold.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\TimeAboveThreshold.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\TimeAboveThreshold.vi".
+File Count: 169
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\Vision Processing.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\Vision Processing.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\Pratham Code\Vision Processing.vi".
+File Count: 170
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working
+VERBOSE: Performing the operation "Copy Directory" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working".
+VERBOSE: Performing the operation "Create Directory" on target "Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working".
+File Count: 171
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\2019 roboRIO Project.aliases
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\2019 roboRIO Project.aliases Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\2019 roboRIO Project.aliases".
+File Count: 172
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\2020 roboRIO Project.aliases
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\2020 roboRIO Project.aliases Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\2020 roboRIO Project.aliases".
+File Count: 173
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\Autonomous Independent.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\Autonomous Independent.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\Autonomous Independent.vi".
+File Count: 174
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\Begin.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\Begin.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\Begin.vi".
+File Count: 175
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\Disabled.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\Disabled.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\Disabled.vi".
+File Count: 176
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\Elapsed Times.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\Elapsed Times.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\Elapsed Times.vi".
+File Count: 177
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\Finish.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\Finish.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\Finish.vi".
+File Count: 178
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\Periodic Tasks.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\Periodic Tasks.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\Periodic Tasks.vi".
+File Count: 179
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\Robot Global Data.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\Robot Global Data.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\Robot Global Data.vi".
+File Count: 180
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\Robot Main.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\Robot Main.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\Robot Main.vi".
+File Count: 181
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\Teleop.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\Teleop.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\Teleop.vi".
+File Count: 182
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\Test.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\Test.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\Test.vi".
+File Count: 183
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\testing for encoders.aliases
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\testing for encoders.aliases Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\testing for encoders.aliases".
+File Count: 184
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\testing for encoders.lvlps
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\testing for encoders.lvlps Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\testing for encoders.lvlps".
+File Count: 185
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\testing for encoders.lvproj
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\testing for encoders.lvproj Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\testing for encoders.lvproj".
+File Count: 186
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\Vision Processing.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\Vision Processing.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\TestBench-Working\Vision Processing.vi".
+File Count: 187
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\testing for encoders.aliases
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\testing for encoders.aliases Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\testing for encoders.aliases".
+File Count: 188
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\testing for encoders.lvlps
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\testing for encoders.lvlps Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\testing for encoders.lvlps".
+File Count: 189
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\testing for encoders.lvproj
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\testing for encoders.lvproj Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\testing for encoders\testing for encoders.lvproj".
+File Count: 190
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation
+VERBOSE: Performing the operation "Copy Directory" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation".
+VERBOSE: Performing the operation "Create Directory" on target "Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation".
+File Count: 191
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\CaseStrucures
+VERBOSE: Performing the operation "Copy Directory" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\CaseStrucures Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\CaseStrucures".
+VERBOSE: Performing the operation "Create Directory" on target "Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\CaseStrucures".
+File Count: 192
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\CaseStrucures\8fda07af-2018-Techbinder.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\CaseStrucures\8fda07af-2018-Techbinder.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\CaseStrucures\8fda07af-2018-Techbinder.pdf".
+File Count: 193
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\CaseStrucures\HowtoUseCaseStructuresTutorial.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\CaseStrucures\HowtoUseCaseStructuresTutorial.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\CaseStrucures\HowtoUseCaseStructuresTutorial.pdf".
+File Count: 194
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\CaseStrucures\Structure.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\CaseStrucures\Structure.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\CaseStrucures\Structure.pdf".
+File Count: 195
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\FRCProgramming
+VERBOSE: Performing the operation "Copy Directory" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\FRCProgramming Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\FRCProgramming".
+VERBOSE: Performing the operation "Create Directory" on target "Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\FRCProgramming".
+File Count: 196
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\FRCProgramming\2009-GettingStartedWithLabVIEWForFRC.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\FRCProgramming\2009-GettingStartedWithLabVIEWForFRC.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\FRCProgramming\2009-GettingStartedWithLabVIEWForFRC.pdf".
+File Count: 197
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\FRCProgramming\2009-RoboticsProgrammingGuide.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\FRCProgramming\2009-RoboticsProgrammingGuide.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\FRCProgramming\2009-RoboticsProgrammingGuide.pdf".
+File Count: 198
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\FRCProgramming\2016-NI-myRIOProjectEssentialsGuide.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\FRCProgramming\2016-NI-myRIOProjectEssentialsGuide.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\FRCProgramming\2016-NI-myRIOProjectEssentialsGuide.pdf".
+File Count: 199
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\FRCProgramming\FRC Survival Guide.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\FRCProgramming\FRC Survival Guide.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\FRCProgramming\FRC Survival Guide.pdf".
+File Count: 200
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\FRCProgramming\FRC_LabVIEW_Programming.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\FRCProgramming\FRC_LabVIEW_Programming.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\FRCProgramming\FRC_LabVIEW_Programming.pdf".
+File Count: 201
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\FRCProgramming\LabVIEW-Robotics-Programming.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\FRCProgramming\LabVIEW-Robotics-Programming.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\FRCProgramming\LabVIEW-Robotics-Programming.pdf".
+File Count: 202
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\FRCProgramming\MARS-Programming-Handbook.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\FRCProgramming\MARS-Programming-Handbook.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\FRCProgramming\MARS-Programming-Handbook.pdf".
+File Count: 203
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\FRCProgramming\NI robotRIO User Manual.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\FRCProgramming\NI robotRIO User Manual.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\FRCProgramming\NI robotRIO User Manual.pdf".
+File Count: 204
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\FRCProgramming\The Secret Book of FRC LabVIEW.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\FRCProgramming\The Secret Book of FRC LabVIEW.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\FRCProgramming\The Secret Book of FRC LabVIEW.pdf".
+File Count: 205
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\IntroToLabVIEW-Videos
+VERBOSE: Performing the operation "Copy Directory" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\IntroToLabVIEW-Videos Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\IntroToLabVIEW-Videos".
+VERBOSE: Performing the operation "Create Directory" on target "Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\IntroToLabVIEW-Videos".
+File Count: 206
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc
+VERBOSE: Performing the operation "Copy Directory" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc".
+VERBOSE: Performing the operation "Create Directory" on target "Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc".
+File Count: 207
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\Array.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\Array.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\Array.pdf".
+File Count: 208
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\Array_Cluster.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\Array_Cluster.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\Array_Cluster.pdf".
+File Count: 209
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\DAQ.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\DAQ.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\DAQ.pdf".
+File Count: 210
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\Debugging.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\Debugging.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\Debugging.pdf".
+File Count: 211
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\File-I-O.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\File-I-O.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\File-I-O.pdf".
+File Count: 212
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\Getting-Started (1).pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\Getting-Started (1).pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\Getting-Started (1).pdf".
+File Count: 213
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\Getting-Started.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\Getting-Started.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\Getting-Started.pdf".
+File Count: 214
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\keydown (1).vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\keydown (1).vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\keydown (1).vi".
+File Count: 215
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\keydown.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\keydown.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\keydown.vi".
+File Count: 216
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\labview-graphical-programming-course-4.6 (1).pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\labview-graphical-programming-course-4.6 (1).pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\labview-graphical-programming-course-4.6 (1).pdf".
+File Count: 217
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\labview-graphical-programming-course-4.6.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\labview-graphical-programming-course-4.6.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\labview-graphical-programming-course-4.6.pdf".
+File Count: 218
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\LabVIEWLoop_ShiftRegister.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\LabVIEWLoop_ShiftRegister.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\LabVIEWLoop_ShiftRegister.pdf".
+File Count: 219
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\Low-Level-Grabe.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\Low-Level-Grabe.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\Low-Level-Grabe.vi".
+File Count: 220
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\new.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\new.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\new.vi".
+File Count: 221
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\PatternMatch-Video-V2.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\PatternMatch-Video-V2.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\PatternMatch-Video-V2.vi".
+File Count: 222
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\PatternMatch-Video.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\PatternMatch-Video.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\PatternMatch-Video.vi".
+File Count: 223
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\Position change example.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\Position change example.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\Position change example.vi".
+File Count: 224
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\Position change example_2.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\Position change example_2.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\Position change example_2.vi".
+File Count: 225
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\Project One.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\Project One.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\Project One.pdf".
+File Count: 226
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\Project-description.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\Project-description.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\Project-description.pdf".
+File Count: 227
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\read-avi-file.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\read-avi-file.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\read-avi-file.vi".
+File Count: 228
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\Structure.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\Structure.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\Structure.pdf".
+File Count: 229
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\SubVI.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\SubVI.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\SubVI.pdf".
+File Count: 230
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\Video-Grabe-Record.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\Video-Grabe-Record.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\Video-Grabe-Record.vi".
+File Count: 231
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\[Clemens_Reimann,_Peter_Filzmoser,_Robert_Garrett,(z-lib.org).pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\[Clemens_Reimann,_Peter_Filzmoser,_Robert_Garrett,(z-lib.org).pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\[Clemens_Reimann,_Peter_Filzmoser,_Robert_Garrett,(z-lib.org).pdf".
+File Count: 232
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\[Fran_ois_Chollet_with_J.J._Allaire]_Deep_Learning(z-lib.org).pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\[Fran_ois_Chollet_with_J.J._Allaire]_Deep_Learning(z-lib.org).pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\[Fran_ois_Chollet_with_J.J._Allaire]_Deep_Learning(z-lib.org).pdf".
+File Count: 233
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\[Garrett_Grolemund,_Hadley_Wickham]_Hands-On_Progr(z-lib.org).pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\[Garrett_Grolemund,_Hadley_Wickham]_Hands-On_Progr(z-lib.org).pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\[Garrett_Grolemund,_Hadley_Wickham]_Hands-On_Progr(z-lib.org).pdf".
+File Count: 234
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\[Hadley_Wickham,_Garrett_Grolemund]_R_for_Data_Sci(z-lib.org).pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\[Hadley_Wickham,_Garrett_Grolemund]_R_for_Data_Sci(z-lib.org).pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\[Hadley_Wickham,_Garrett_Grolemund]_R_for_Data_Sci(z-lib.org).pdf".
+File Count: 235
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\[Peter_Bruce,_Andrew_Bruce]_Practical_Statistics_f(z-lib.org).pdf
