@@ -13756,3 +13756,235 @@ Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainin
 VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\[Hadley_Wickham,_Garrett_Grolemund]_R_for_Data_Sci(z-lib.org).pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\[Hadley_Wickham,_Garrett_Grolemund]_R_for_Data_Sci(z-lib.org).pdf".
 File Count: 235
 Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\[Peter_Bruce,_Andrew_Bruce]_Practical_Statistics_f(z-lib.org).pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\[Peter_Bruce,_Andrew_Bruce]_Practical_Statistics_f(z-lib.org).pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEWTrainingMisc\[Peter_Bruce,_Andrew_Bruce]_Practical_Statistics_f(z-lib.org).pdf".
+File Count: 236
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\Loops
+VERBOSE: Performing the operation "Copy Directory" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\Loops Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\Loops".
+VERBOSE: Performing the operation "Create Directory" on target "Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\Loops".
+File Count: 237
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\Loops\Structure.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\Loops\Structure.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\Loops\Structure.pdf".
+File Count: 238
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments
+VERBOSE: Performing the operation "Copy Directory" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments".
+VERBOSE: Performing the operation "Create Directory" on target "Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments".
+File Count: 239
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\CannonProjectileGameFramework.vi
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\CannonProjectileGameFramework.vi Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\CannonProjectileGameFramework.vi".
+File Count: 240
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\e_1.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\e_1.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\e_1.pdf".
+File Count: 241
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\e_2.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\e_2.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\e_2.pdf".
+File Count: 242
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\Lab01.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\Lab01.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\Lab01.pdf".
+File Count: 243
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\Lab02.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\Lab02.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\Lab02.pdf".
+File Count: 244
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\Lab03.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\Lab03.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\Lab03.pdf".
+File Count: 245
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\labview (2).pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\labview (2).pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\labview (2).pdf".
+File Count: 246
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\labview(1).pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\labview(1).pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\labview(1).pdf".
+File Count: 247
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\labview.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\labview.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\labview.pdf".
+File Count: 248
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\LabVIEWAssignments.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\LabVIEWAssignments.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\LabVIEWAssignments.pdf".
+File Count: 249
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\LabVIEWCaseStructure.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\LabVIEWCaseStructure.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\LabVIEWCaseStructure.pdf".
+File Count: 250
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\labviewhomework01.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\labviewhomework01.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\labviewhomework01.pdf".
+File Count: 251
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\labviewhomework02.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\labviewhomework02.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\labviewhomework02.pdf".
+File Count: 252
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\labviewhomework03.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\labviewhomework03.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\labviewhomework03.pdf".
+File Count: 253
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\labviewhomework04.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\labviewhomework04.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\labviewhomework04.pdf".
+File Count: 254
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\labviewhomework05.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\labviewhomework05.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\labviewhomework05.pdf".
+File Count: 255
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\labviewhomework06.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\labviewhomework06.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\labviewhomework06.pdf".
+File Count: 256
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\labviewhomework07.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\labviewhomework07.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\labviewhomework07.pdf".
+File Count: 257
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\labviewhomework08.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\labviewhomework08.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\labviewhomework08.pdf".
+File Count: 258
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\LabviewLast(1).pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\LabviewLast(1).pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\LabviewLast(1).pdf".
+File Count: 259
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\LabviewLast.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\LabviewLast.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\LabviewLast.pdf".
+File Count: 260
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\LFE-chpt12a.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\LFE-chpt12a.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\LFE-chpt12a.pdf".
+File Count: 261
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\LVLesson1.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\LVLesson1.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\LVLesson1.pdf".
+File Count: 262
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\LVLesson2.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\LVLesson2.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\LVLesson2.pdf".
+File Count: 263
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\LVLesson3.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\LVLesson3.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\LVLesson3.pdf".
+File Count: 264
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\LVLesson4.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\LVLesson4.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\LVLesson4.pdf".
+File Count: 265
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\LVLesson5 - Copy.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\LVLesson5 - Copy.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\LVLesson5 - Copy.pdf".
+File Count: 266
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\LVLesson5.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\LVLesson5.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\LVLesson5.pdf".
+File Count: 267
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\LVLesson6.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\LVLesson6.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\LVLesson6.pdf".
+File Count: 268
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\ME120F06HW4.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\ME120F06HW4.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\ME120F06HW4.pdf".
+File Count: 269
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\Mini-Project1.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\Mini-Project1.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ProgrammingAssignments\Mini-Project1.pdf".
+File Count: 270
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\PropertyNodes
+VERBOSE: Performing the operation "Copy Directory" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\PropertyNodes Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\PropertyNodes".
+VERBOSE: Performing the operation "Create Directory" on target "Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\PropertyNodes".
+File Count: 271
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\PropertyNodes\LabVIEW Property Nodes.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\PropertyNodes\LabVIEW Property Nodes.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\PropertyNodes\LabVIEW Property Nodes.pdf".
+File Count: 272
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\PropertyNodes\Lva.12.event.propery.node.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\PropertyNodes\Lva.12.event.propery.node.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\PropertyNodes\Lva.12.event.propery.node.pdf".
+File Count: 273
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\PropertyNodes\PropertyNodes.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\PropertyNodes\PropertyNodes.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\PropertyNodes\PropertyNodes.pdf".
+File Count: 274
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\SubVI
+VERBOSE: Performing the operation "Copy Directory" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\SubVI Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\SubVI".
+VERBOSE: Performing the operation "Create Directory" on target "Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\SubVI".
+File Count: 275
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\SubVI\SubVI.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\SubVI\SubVI.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\SubVI\SubVI.pdf".
+File Count: 276
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\SubVI\SubVI2.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\SubVI\SubVI2.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\SubVI\SubVI2.pdf".
+File Count: 277
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\VersionControl
+VERBOSE: Performing the operation "Copy Directory" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\VersionControl Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\VersionControl".
+VERBOSE: Performing the operation "Create Directory" on target "Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\VersionControl".
+File Count: 278
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\VersionControl\BuildingToolsWithGitHub.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\VersionControl\BuildingToolsWithGitHub.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\VersionControl\BuildingToolsWithGitHub.pdf".
+File Count: 279
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\VersionControl\GitHubEssentials.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\VersionControl\GitHubEssentials.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\VersionControl\GitHubEssentials.pdf".
+File Count: 280
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\VersionControl\IntroducingGitHub.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\VersionControl\IntroducingGitHub.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\VersionControl\IntroducingGitHub.pdf".
+File Count: 281
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\VersionControl\LabVIEW-GitHub.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\VersionControl\LabVIEW-GitHub.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\VersionControl\LabVIEW-GitHub.pdf".
+File Count: 282
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\2007-LabviewAdvancedProgrammingTechniques.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\2007-LabviewAdvancedProgrammingTechniques.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\2007-LabviewAdvancedProgrammingTechniques.pdf".
+File Count: 283
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\2007-LabviewIntroduction.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\2007-LabviewIntroduction.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\2007-LabviewIntroduction.pdf".
+File Count: 284
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\2007-LabviewStyleBook.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\2007-LabviewStyleBook.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\2007-LabviewStyleBook.pdf".
+File Count: 285
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\2009-LabviewProgrammingExamples.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\2009-LabviewProgrammingExamples.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\2009-LabviewProgrammingExamples.pdf".
+File Count: 286
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\2010-LabviewIntroduction.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\2010-LabviewIntroduction.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\2010-LabviewIntroduction.pdf".
+File Count: 287
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\2013-EffectiveLabviewProgramming.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\2013-EffectiveLabviewProgramming.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\2013-EffectiveLabviewProgramming.pdf".
+File Count: 288
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\2013-NI-GettingStartedWithLabview.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\2013-NI-GettingStartedWithLabview.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\2013-NI-GettingStartedWithLabview.pdf".
+File Count: 289
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\2014-LabviewGraphicalProgrammingCookbook.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\2014-LabviewGraphicalProgrammingCookbook.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\2014-LabviewGraphicalProgrammingCookbook.pdf".
+File Count: 290
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\374474a.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\374474a.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\374474a.pdf".
+File Count: 291
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\CMPS_273_Assignment_12_LabView_Quiz.doc
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\CMPS_273_Assignment_12_LabView_Quiz.doc Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\CMPS_273_Assignment_12_LabView_Quiz.doc".
+File Count: 292
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\Intro_to_LabVIEW.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\Intro_to_LabVIEW.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\Intro_to_LabVIEW.pdf".
+File Count: 293
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ISE212_LabVIEWChapter1and2_Notes.ppt
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ISE212_LabVIEWChapter1and2_Notes.ppt Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\ISE212_LabVIEWChapter1and2_Notes.ppt".
+File Count: 294
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\Lab-Lecture3-Intro-to-LabView.ppt
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\Lab-Lecture3-Intro-to-LabView.ppt Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\Lab-Lecture3-Intro-to-LabView.ppt".
+File Count: 295
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEW7 Tutorial copy.ppt
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEW7 Tutorial copy.ppt Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEW7 Tutorial copy.ppt".
+File Count: 296
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\Labview_Exercises_with_annotations (1).pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\Labview_Exercises_with_annotations (1).pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\Labview_Exercises_with_annotations (1).pdf".
+File Count: 297
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\Labview_Exercises_with_annotations - Copy.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\Labview_Exercises_with_annotations - Copy.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\Labview_Exercises_with_annotations - Copy.pdf".
+File Count: 298
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\Labview_Exercises_with_annotations.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\Labview_Exercises_with_annotations.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\Labview_Exercises_with_annotations.pdf".
+File Count: 299
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEW_Programming_Examples.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEW_Programming_Examples.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\LabVIEW_Programming_Examples.pdf".
+File Count: 300
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\State_Machine_Architectures.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\State_Machine_Architectures.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\State_Machine_Architectures.pdf".
+File Count: 301
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\SubVI.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\SubVI.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\SubVI.pdf".
+File Count: 302
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\WiringShortcuts.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\WiringShortcuts.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\WiringShortcuts.pdf".
+File Count: 303
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\[FRC 2014] Basic Motor Control.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\[FRC 2014] Basic Motor Control.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\[FRC 2014] Basic Motor Control.pdf".
+File Count: 304
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\[FRC 2015] PID Tutorial.pdf
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\[FRC 2015] PID Tutorial.pdf Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\zDocumentation\[FRC 2015] PID Tutorial.pdf".
+File Count: 305
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\ProgrammingContactInformation.md
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\ProgrammingContactInformation.md Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\ProgrammingContactInformation.md".
+File Count: 306
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\README.md
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\README.md Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\README.md".
+File Count: 307
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\Test.py
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\Test.py Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\Test.py".
+File Count: 308
+Full File Name: C:\MARSGitHubRepo\MARS-Tucker-Team\UsefulLinks.md
+VERBOSE: Performing the operation "Copy File" on target "Item: C:\MARSGitHubRepo\MARS-Tucker-Team\UsefulLinks.md Destination: C:\Users\jbrus\Google Drive\Documents\TempBackupHolding\2020-01-11-19-01-Full-Backups\MARSGitHubRepo\MARS-Tucker-Team\UsefulLinks.md".
+File Count: 309
+***********************
+Total Number of Files Backed Up: 4371
+**********************
+Windows PowerShell transcript end
+End time: 20200111190256
+**********************
