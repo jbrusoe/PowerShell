@@ -115,7 +115,7 @@ Start-Transcript $($PSScriptRoot +"\" + "BackupTranscript" + "\" + $CurrentDate 
 #Specify which directories need to be backed up
 $DirectoriesToBackup = @()
 
-if ($Zotero -OR $CodeSamples -OR $NuclearScience -OR $Orienteering -OR $MachineLearning -OR $FLL -OR $AllPowerShell -OR $MARS -OR $GitHub -OR $MARSGitHub)
+if ($Zotero -OR $CodeSamples -OR $NuclearScience -OR $Orienteering -OR $MachineLearning -OR $FLL -OR $AllPowerShell -OR $MARS -OR $GitHub -OR $MARSGitHub -OR $LabVIEW)
 {
 	#These parameters are used to indicate that only a specific directory (or directories) is to be backed up.
 	
