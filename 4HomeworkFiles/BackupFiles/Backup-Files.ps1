@@ -87,7 +87,7 @@ param (
 	[switch]$MARS,
 	[switch]$GitHub,
 	[switch]$MARSGitHub,
-	[switch]$LabVIEW
+	[switch]$LabVIEW,
 	[switch]$AllPowerShell #Backs up all PoweShell files instead of just ps1
 	#[switch]$Anaconda3
 	)
