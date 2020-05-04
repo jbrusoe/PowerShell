@@ -1,0 +1,163 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20200504182311
+Username: DESKTOP-1MQ9DJO\jbrus
+RunAs User: DESKTOP-1MQ9DJO\jbrus
+Configuration Name: 
+Machine: DESKTOP-1MQ9DJO (Microsoft Windows NT 10.0.18363.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 18328
+PSVersion: 5.1.18362.752
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.18362.752
+BuildVersion: 10.0.18362.752
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is Chapter7-Lab.txt
+PS C:\users\jbrus\Documents\GitHub\PowerShell-Private> help *troubleshooting*
+
+Name                              Category  Module                    Synopsis
+----                              --------  ------                    --------
+Get-TroubleshootingPack           Cmdlet    TroubleShootingPack       Gets a troubleshooting pack or generates an an...
+Invoke-TroubleshootingPack        Cmdlet    TroubleShootingPack       Runs a troubleshooting pack.
+about_Remote_Troubleshooting      HelpFile                            Describes how to troubleshoot remote operation...
+about_Scheduled_Jobs_Troublesh... HelpFile                            Explains how to resolve problems with schedule...
+about_Scheduled_Jobs_Troublesh... HelpFile                            Explains how to resolve problems with schedule...
+PS C:\users\jbrus\Documents\GitHub\PowerShell-Private> Import-Module TroubleshootingPack
+PS C:\users\jbrus\Documents\GitHub\PowerShell-Private> help troubleshootingpack
+
+Name                              Category  Module                    Synopsis
+----                              --------  ------                    --------
+Get-TroubleshootingPack           Cmdlet    TroubleShootingPack       Gets a troubleshooting pack or generates an an...
+Invoke-TroubleshootingPack        Cmdlet    TroubleShootingPack       Runs a troubleshooting pack.
+PS C:\users\jbrus\Documents\GitHub\PowerShell-Private> help Get-TroubleshootingPack
+
+NAME
+    Get-TroubleshootingPack
+
+SYNOPSIS
+    Gets a troubleshooting pack or generates an answer file.
+
+
+SYNTAX
+    Get-TroubleshootingPack [-Path] <String> [-AnswerFile <String>] [<CommonParameters>]
+
+
+DESCRIPTION
+    The Get-TroubleshootingPack cmdlet gets a DiagPack object that you can pass to the Invoke-TroubleshootingPack
+    cmdlet.
+
+    The Get-TroubleshootingPack can also get information about a troubleshooting pack and generate an answer file.
+
+
+RELATED LINKS
+    Online Version: http://go.microsoft.com/fwlink/p/?linkid=287584
+    Invoke-TroubleshootingPack
+
+REMARKS
+    To see the examples, type: "get-help Get-TroubleshootingPack -examples".
+    For more information, type: "get-help Get-TroubleshootingPack -detailed".
+    For technical information, type: "get-help Get-TroubleshootingPack -full".
+    For online help, type: "get-help Get-TroubleshootingPack -online"
+PS C:\users\jbrus\Documents\GitHub\PowerShell-Private> Get-TroubleshootingPack -Path "C:\Windows\diagnostics\system\Networking\"
+
+Id                        Name                                     Publisher                                Version
+--                        ----                                     ---------                                -------
+NetworkDiagnostics        Windows Network Diagnostics              Microsoft Windows                        4.0
+
+
+PS C:\users\jbrus\Documents\GitHub\PowerShell-Private> $NTP = Get-TroubleshootingPack -Path "C:\Windows\diagnostics\system\Networking\"
+PS C:\users\jbrus\Documents\GitHub\PowerShell-Private> $NTP
+
+Id                        Name                                     Publisher                                Version
+--                        ----                                     ---------                                -------
+NetworkDiagnostics        Windows Network Diagnostics              Microsoft Windows                        4.0
+
+
+PS C:\users\jbrus\Documents\GitHub\PowerShell-Private> help Invoke-TroubleshootingPack
+
+NAME
+    Invoke-TroubleshootingPack
+
+SYNOPSIS
+    Runs a troubleshooting pack.
+
+
+SYNTAX
+    Invoke-TroubleshootingPack [-Pack] <DiagPack> [-AnswerFile <String>] [-Result <String>] [-Unattended]
+    [<CommonParameters>]
+
+
+DESCRIPTION
+    The Invoke-TroubleshootingPack cmdlet runs a troubleshooting pack in either interactive or unattended mode. A
+    troubleshooting pack determines the root causes of issues, resolves the issues, and verifies that the issues were
+    resolved. The cmdlet can save reports that detail issues and resolutions.
+
+    In interactive mode, you can select the resolutions to use and provide input to interactions with the
+    troubleshooting pack. In unattended mode, the troubleshooting pack determines which resolutions to use at run
+    time. While in unattended mode, if the troubleshooting pack requires input, you need to provide answers or specify
+    an answer file. To create an answer file, use the Get-TroubleshootingPack cmdlet.
+
+    You can save the result report and the debug report, along with XSL and any linked files. Both reports contain the
+    issues and resolutions. The debug report contains additional information.
+
+
+RELATED LINKS
+    Online Version: http://go.microsoft.com/fwlink/p/?linkid=287585
+    Get-TroubleshootingPack
+
+REMARKS
+    To see the examples, type: "get-help Invoke-TroubleshootingPack -examples".
+    For more information, type: "get-help Invoke-TroubleshootingPack -detailed".
+    For technical information, type: "get-help Invoke-TroubleshootingPack -full".
+    For online help, type: "get-help Invoke-TroubleshootingPack -online"
+PS C:\users\jbrus\Documents\GitHub\PowerShell-Private> help Invoke-TroubleshootingPack -examples
+
+NAME
+    Invoke-TroubleshootingPack
+
+SYNOPSIS
+    Runs a troubleshooting pack.
+
+
+    Example 1: Run a troubleshooting pack
+
+    PS C:\> Get-TroubleshootingPack -Path "C:\Windows\Diagnostics\System\Audio" | Invoke-TroubleshootingPack
+
+    This example runs the Audio pack in interactive mode. This example does not save reports.
+
+    The command uses the Get-TroubleshootingPack cmdlet to get a DiagPack object and pipes it to the
+    Invoke-TroubleshootingPack cmdlet.
+    Example 2: Save troubleshooting reports
+
+    PS C:\> $Audio = Get-TroubleshootingPack -Path "C:\Windows\Diagnostics\System\Audio"
+    PS C:\> Invoke-TroubleshootingPack -Pack $Audio -Result "C:\DiagResult"
+
+    This example runs the Areo pack in interactive mode and saves the results to a folder.
+
+    The first command uses the Get-TroubleshootingPack cmdlet to get a DiagPack object and stores it in the $Audio
+    variable.
+
+    The second command invokes the troubleshooting pack stored in $Audio. The pack saves reports in the specified
+    folder.
+    Example 3: Run a troubleshooting pack in unattended mode
+
+    PS C:\> $Audio = Get-TroubleshootingPack -Path "C:\Windows\Diagnostics\System\Audio"
+    PS C:\> Invoke-TroubleshootingPack -Pack $Audio -AnswerFile "AudioAnswerFile.xml" -Unattended
+
+    This example runs the Audio pack in unattended mode with a specified answer file.
+
+    The first command uses the Get-TroubleshootingPack cmdlet to get a DiagPack object and stores it in the $Audio
+    variable.
+
+    The second command invokes the troubleshooting pack stored in $Audio in unattended mode. The command specifies an
+    answer file, previously created by using the Get-TroubleshootingPack cmdlet.
+PS C:\users\jbrus\Documents\GitHub\PowerShell-Private> Invoke-TroubleshootingPack -Pack $NTP 
+PS C:\users\jbrus\Documents\GitHub\PowerShell-Private> Stop-Transcript
+**********************
+Windows PowerShell transcript end
+End time: 20200504182544
+**********************
