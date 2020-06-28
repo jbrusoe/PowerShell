@@ -47,7 +47,6 @@ while ($ElementSwitched)
 			$Temp = $ArrayToSort[$i]
 			$ArrayToSort[$i] = $ArrayTOSort[$i-1]
 			$ArrayToSort[$i-1] = $Temp
-			
 		}
 	}
 	
