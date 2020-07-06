@@ -87,6 +87,7 @@ param (
 	[switch]$MARS,
 	[switch]$GitHub,
 	[switch]$MARSGitHub,
+	[switch]$HSCGitHub,
 	[switch]$LabVIEW,
 	[switch]$AllPowerShell #Backs up all PoweShell files instead of just ps1
 	#[switch]$Anaconda3
@@ -115,7 +116,7 @@ Start-Transcript $($PSScriptRoot +"\" + "BackupTranscript" + "\" + $CurrentDate 
 #Specify which directories need to be backed up
 $DirectoriesToBackup = @()
 
-if ($Zotero -OR $CodeSamples -OR $NuclearScience -OR $Orienteering -OR $MachineLearning -OR $FLL -OR $AllPowerShell -OR $MARS -OR $GitHub -OR $MARSGitHub -OR $LabVIEW)
+if ($Zotero -OR $CodeSamples -OR $NuclearScience -OR $Orienteering -OR $MachineLearning -OR $FLL -OR $AllPowerShell -OR $MARS -OR $GitHub -OR $HSCGitHub -OR $MARSGitHub -OR $LabVIEW)
 {
 	#These parameters are used to indicate that only a specific directory (or directories) is to be backed up.
 	
@@ -129,7 +130,8 @@ if ($Zotero -OR $CodeSamples -OR $NuclearScience -OR $Orienteering -OR $MachineL
 	if ($MARS) { $DirectoriesToBackup += "C:\Users\jbrus\Google Drive\Documents\MARS" }
 	if ($GitHub) { $DirectoriesToBackup += "C:\Users\jbrus\Documents\GitHub" } #$DirectoriesToBackup += "C:\MARSGitHubRepo"
 	if ($MARSGitHub) { $DirectoriesToBackup += "C:\MARSGitHubRepo\MARS-Tucker-Team" ; $DirectoriesToBackup += "C:\Users\jbrus\Documents\GitHub\MARS-2020" }
-	if ($LabVIEW) { $DirectoriesToBackup += $DirectoriesToBackup += "C:\Users\jbrus\Documents\GitHub\LabVIEW" }
+	if ($LabVIEW) { $DirectoriesToBackup += "C:\Users\jbrus\Documents\GitHub\LabVIEW" }
+	if ($HSCGitHub) { $DirectoriesToBackup += $DirectoriesToBackup + "c:\hscgithub"}
 	
 }
 else
