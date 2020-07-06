@@ -13,6 +13,8 @@ function Multiply
 		[float]$b
 	)
 	
+	#See the following page for the reason of having Out-Host
+	#https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_return?view=powershell-7
 	Write-Output "In Multiply function" | Out-Host
 	
 	return $a*$b
