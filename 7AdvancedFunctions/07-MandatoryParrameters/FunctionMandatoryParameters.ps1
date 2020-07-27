@@ -12,5 +12,7 @@ function Get-RandomNumber
 
 for ($i = 1; $i -lt 21; $i++)
 {
+	#Version1
 	Write-Output $("$i - " + (Get-RandomNumber -Min 1 -Max 101))
+	#Version 2 - Write-Output $("$i - " + (Get-RandomNumber))
 }
