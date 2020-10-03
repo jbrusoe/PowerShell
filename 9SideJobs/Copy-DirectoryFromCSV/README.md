@@ -4,7 +4,7 @@
 
 This is the file I wrote to update an existing PS1 file that was written by somebody else. The email I received from the company is shown below.
 
-<hr.
+<hr>
 
 ![Problem Statement 1](https://raw.githubusercontent.com/jbrusoe/PowerShell/master/9SideJobs/Copy-DirectoryFromCSV/Images/1ProblemStatement.JPG)
 ![Problem Statement 2](https://raw.githubusercontent.com/jbrusoe/PowerShell/master/9SideJobs/Copy-DirectoryFromCSV/Images/2ProblemStatement.JPG)
