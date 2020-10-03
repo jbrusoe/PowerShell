@@ -1,0 +1,78 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20201002121930
+Username: DESKTOP-1MQ9DJO\jbrus
+RunAs User: DESKTOP-1MQ9DJO\jbrus
+Configuration Name: 
+Machine: DESKTOP-1MQ9DJO (Microsoft Windows NT 10.0.19041.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 19404
+PSVersion: 5.1.19041.1
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.19041.1
+BuildVersion: 10.0.19041.1
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is 2020-10-02-12-19-MoveDirectoryTranscript.txt
+Beginning function to copy directory structure
+Source Directory: C:\Users\jbrus\Google Drive\PSDirectory\Source\
+Source Directory Exists
+Destination Directory: C:\Users\jbrus\Google Drive\PSDirectory\Destination\
+Destination directory Exists
+CSV Directory List: C:\Users\jbrus\Google Drive\PSDirectory\CSVList.csv
+CSV directory list exists
+CSV Directories from file:
+123456
+123456
+123457
+987654_1
+987654_2
+123457
+
+Current CSV Directory: 123456
+Directory Match Found
+Last Directory: 123456-1
+Directory Name to Copy: 123456-2
+Copying Directory
+********************************
+Current CSV Directory: 123456
+Directory Match Found
+Last Directory: 123456-2
+Directory Name to Copy: 123456-3
+Copying Directory
+********************************
+Current CSV Directory: 123457
+Directory Match Found
+Last Directory: 123457-123
+Directory Name to Copy: 123457-124
+Copying Directory
+********************************
+Current CSV Directory: 987654_1
+Directory Match Found
+Last Directory: 987654_1
+Directory Name to Copy: 987654_1-1
+Copying Directory
+********************************
+Current CSV Directory: 987654_2
+Directory Match Found
+Last Directory: 987654_2
+Directory Name to Copy: 987654_2-1
+Copying Directory
+********************************
+Current CSV Directory: 123457
+Directory Match Found
+Last Directory: 123457-124
+Directory Name to Copy: 123457-125
+Copying Directory
+********************************
+SUCCESS
+CSV Archive Directory: C:\Users\jbrus\Google Drive\PSDirectory\ArchivedCSV\
+CSV archive directory exists
+Successfully moved CSV to archive directory
+**********************
+Windows PowerShell transcript end
+End time: 20201002121930
+**********************
