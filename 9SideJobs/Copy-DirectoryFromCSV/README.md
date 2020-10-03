@@ -2,7 +2,7 @@
 
 **Last Update:** October 3, 2020
 
-This is the file I wrote to update an existing PS1 file that was written by somebody else. The email I received from the company is shown below.
+This is the file I wrote to update an existing PS1 file that was written by somebody else. The email I received from the company is shown below. See the DirectoryTestingStructure.zip file for what I was using to test with.
 
 <hr>
 
