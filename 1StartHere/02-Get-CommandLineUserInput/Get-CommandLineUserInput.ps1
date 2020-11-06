@@ -1,4 +1,5 @@
 #Command line user input
 
-$UserInput = Read-Host "Enter a number" #Note: PowerShell adds a colon and space after using Read-Host
+#Note: PowerShell adds a colon and space after using Read-Host
+$UserInput = Read-Host "Enter a number" 
 Write-Output "You entered $UserInput."
