@@ -1,3 +1,5 @@
+#Demonstration of PowerShell split operator
+
 $PSString = "a,b,c,d,e,f,g,h,i,j"
 
 Write-Output "Starting String: $PSString"
