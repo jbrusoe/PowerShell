@@ -1,3 +1,5 @@
+#Array demonstration file
+
 Clear-Host #Note: cls is also an alias for this.
 
 Write-Output "Creating Array 1"
