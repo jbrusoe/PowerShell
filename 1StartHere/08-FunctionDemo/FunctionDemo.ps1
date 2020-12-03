@@ -23,4 +23,5 @@ function Multiply
 [float]$FirstNumber = Read-Host "Enter any number"
 [float]$SecondNumber = Read-Host "Enter another number"
 
-Write-Output $("$FirstNumber * $SecondNumber = " + (Multiply -a $FirstNumber -b $SecondNumber))
+Write-Output $("$FirstNumber * $SecondNumber = " +
+	(Multiply -a $FirstNumber -b $SecondNumber))
