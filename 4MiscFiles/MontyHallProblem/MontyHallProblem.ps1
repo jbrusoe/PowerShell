@@ -17,24 +17,20 @@ while ([string]::IsNullOrEmpty($Trials))
 		$Trials = Read-Host "Number of trials"
 		
 		#This code block detects potential errors that a user may enter.
-		if ([string]::IsNullOrEmpty($Trials))
-		{
+		if ([string]::IsNullOrEmpty($Trials)) {
 			#This is the case where the user just hit the enter key.
 			Write-Warning "The number of trials must be assigned a value."
 		}
-		elseif ([int]$Trials -le 0)
-		{
+		elseif ([int]$Trials -le 0) {
 			#The radius must be positive.
 			Write-Warning "The number of trials must be greater than zero."
 			$Trials = $null
 		}
-		else
-		{
+		else {
 			Write-Output $("Number of trials: " + [int]$Trials)
 		}
 	}
-	catch
-	{
+	catch {
 		#This should only be executed if a nonnumeric values are entered for the number of trials.
 		Write-Warning "The number of trials can't contain nonnumeric entries."
 		$Trials = $null
@@ -64,12 +60,10 @@ for ($i = 1; $i -le [int]$Trials; $i++)
 		$CorrectCount++
 		$BlockedDoor = Get-Random -Minimum 2 -Maximum 4
 		
-		if ($BlockedDoor -eq 2)
-		{
+		if ($BlockedDoor -eq 2) {
 			$GuessedDoor = 3 
 		}
-		else
-		{
+		else {
 			$GuessedDoor = 2
 		}
 	}
@@ -77,13 +71,11 @@ for ($i = 1; $i -le [int]$Trials; $i++)
 	{
 		Write-Output "Incorrect without switch"
 		
-		if ($CorrectDoor -eq 2)
-		{
+		if ($CorrectDoor -eq 2) {
 			$BlockedDoor = 3
 			$GuessedDoor = 2
 		}
-		else
-		{
+		else {
 			$BlockedDoor = 2
 			$GuessedDoor = 3
 		}
@@ -91,13 +83,11 @@ for ($i = 1; $i -le [int]$Trials; $i++)
 	
 	Write-Output "Switched Door: $GuessedDoor"
 	
-	if ($GuessedDoor -eq $CorrectDoor)
-	{
+	if ($GuessedDoor -eq $CorrectDoor) {
 		$SwitchedCorrectCount++
 		Write-Output "Switched Correct"
 	}
-	else
-	{
+	else {
 		Write-Output "Switched Incorrect"
 	}
 	
