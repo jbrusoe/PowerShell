@@ -3,8 +3,11 @@
 #
 #Demo of trig functions. It shows how to use common math functions in PowerShell.
 #Version 1 doesn't use Format-Table. See Version 2 for implementation wtih Format-Table.
-Set-Variable -Name "pi" -Value ([Math]::PI) -Option Constant
+#
+#The code here verifies the trig identity sin^2(x) + cos^2(x) = 1
 
+
+Set-Variable -Name "pi" -Value ([Math]::PI) -Option Constant
 Write-Output "Pi: $pi"
 
 Write-Output "theta(Degrees)`tsin(theta)`tsin^2(theta)`tcos(theta)`tcos^2(theta)`tSum"
