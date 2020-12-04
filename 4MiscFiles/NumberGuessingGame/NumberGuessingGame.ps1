@@ -1,3 +1,5 @@
+#PowerShell Number Guessing Game
+
 [int]$ActualNumber = Get-Random -minimum 1 -maximum 101
 [bool]$NumberGuessed = $false
 [int]$GuessCount = 0
@@ -16,12 +18,10 @@ while (!$NumberGuessed)
 		
 		$NumberGuessed = $true
 	}
-	elseif ($UserGuess -lt $ActualNumber)
-	{
+	elseif ($UserGuess -lt $ActualNumber) {
 		Write-Host -ForeGroundColor Yellow "Higher"
 	}
-	else
-	{
+	else {
 		Write-Host -ForeGroundColor Yellow "Lower"
 	}
 }
