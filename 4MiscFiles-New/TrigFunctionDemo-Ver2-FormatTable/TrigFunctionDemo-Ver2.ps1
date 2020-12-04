@@ -45,4 +45,4 @@ for ($degree = 0; $degree -lt 360; $degree++)
 	$Results += $Trig
 }
 
-$Results| Format-Table
+$Results | Format-Table
