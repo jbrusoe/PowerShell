@@ -1,4 +1,8 @@
 #Bubble sort
+#PowerShell Bubble Sort Demo
+#Written by: Jeff Brusoe
+#Last Updated: December 3, 2020
+
 
 Set-StrictMode -Version Latest
 
