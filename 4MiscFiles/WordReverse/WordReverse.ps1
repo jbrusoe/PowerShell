@@ -22,7 +22,7 @@ while ($i -lt $OriginalWord.Length)
 
 Write-Output "`nReversed Word: $ReversedWord`n"
 
-Write-Output "Method 2: Using .net System.Array methods"
+Write-Output "`n`nMethod 2: Using .net System.Array methods"
 Write-Output "Original Word: $ReversedWord"
 
 $CharArray = $ReversedWord.toCharArray()
