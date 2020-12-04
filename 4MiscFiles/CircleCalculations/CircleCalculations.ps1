@@ -8,8 +8,9 @@
 #Email: jbrusoe@gmail.com
 #
 #The purpose of this program is to take the radius of a circle and 
-#calculate the circle's area and circumference. It was written as a demonstration
-#program for a Programming merit badge class to show ways to do output, input, if/then, and loop statements.
+#calculate the circle's area and circumference. It was written as
+#a demonstration program for a Programming merit badge class to show
+#ways to do output, input, if/then, and loop statements.
 #
 #Some possible changes to this program include the following.  
 #These are only suggestions, and many other things can be changed.
@@ -40,21 +41,19 @@ while ($Radius -le 0)
 		$Radius = Read-Host "Enter the radius in cm"
 		
 		#This code block detects potential errors that a user may enter.
-		if ([string]::IsNullOrEmpty($Radius))
-		{
+		if ([string]::IsNullOrEmpty($Radius)) {
 			#This is the case where the user just hit the enter key.
-			Write-Host "The radius must be assigned a value." -foregroundcolor Yellow
+			Write-Warning "The radius must be assigned a value."
 		}
-		elseif ($Radius -le 0)
-		{
+		elseif ($Radius -le 0) {
 			#The radius must be positive.
-			Write-Host "The radius must be greater than zero." -foregroundcolor Yellow
+			Write-Warning "The radius must be greater than zero."
 		}
 	}
 	catch
 	{
 		#This should only be executed if a nonnumeric values are entered for the radius.
-		Write-Host "The radius can't contain nonnumeric entries." -foregroundcolor Yellow
+		Write-Warning "The radius can't contain nonnumeric entries." -foregroundcolor
 		$Radius = 0.0
 	}
 	
