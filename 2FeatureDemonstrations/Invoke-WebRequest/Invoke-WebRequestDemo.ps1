@@ -12,12 +12,10 @@ foreach ($URL in $URLs)
 	
 	foreach ($Link in $Links)
 	{
-		if ($Link.href.toLower().indexOf("http") -lt 0)
-		{
+		if ($Link.href.toLower().indexOf("http") -lt 0) {
 			Write-Output $("Link $LinkCount`: $URL" + $Link.href)
 		}
-		else
-		{
+		else {
 			Write-Output $("Link $LinkCount`: " + $Link.href)
 		}
 		
