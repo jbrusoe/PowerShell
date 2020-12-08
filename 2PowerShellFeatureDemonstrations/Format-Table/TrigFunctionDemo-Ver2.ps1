@@ -2,7 +2,9 @@
 #Written by: Jeff Brusoe
 #
 #Demo of trig functions. It shows how to use common math functions in PowerShell.
-#Version 1 doesn't use Format-Table. Version 2 is implemented with PS object and Format-Table.
+#Version 1 doesn't use Format-Table. Version 2 is implemented with PS object
+#and Format-Table.
+
 Set-Variable -Name "pi" -Value ([Math]::PI) -Option Constant
 
 Write-Output "Pi: $pi"
@@ -11,7 +13,7 @@ $Results = @()
 
 for ($degree = 0; $degree -lt 360; $degree++)
 {
-	$Trig = New-Object -typename psobject
+	$Trig = New-Object -TypeName PSObject
 	
 	$Trig | Add-Member -MemberType NoteProperty -Name "Theta(Degrees)" -Value $degree
 	
@@ -43,9 +45,4 @@ for ($degree = 0; $degree -lt 360; $degree++)
 	$Results += $Trig
 }
 
-
-	
-
-
-
-$Results| Format-Table
+$Results | Format-Table
