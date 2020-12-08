@@ -30,6 +30,6 @@ $dgvService.Columns[2].Width = 230
 
 $PSGUIDemo.controls.AddRange(@($btnGetService,$dgvService))
 
-$btnGetService.Add_Click({ Get-Service | foreach{ $dgvService.Rows.Add($_.Name,$_.Status,$_.DisplayName)}})
+$btnGetService.Add_Click({ Get-Service | foreach { $dgvService.Rows.Add($_.Name,$_.Status,$_.DisplayName)}})
 
 [void]$PSGUIDemo.ShowDialog()
