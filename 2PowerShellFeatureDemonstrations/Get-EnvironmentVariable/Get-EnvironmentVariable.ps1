@@ -1,7 +1,7 @@
-#Note: dir, gci, and Get-ChildItem can all be used here.
+#PowerShell environment variable demonstration
 
-dir env:
+Get-ChildItem env:
 
 Write-Output "`n`nNow pulling computer name"
 
-gci env:\ComputerName | Out-Host
+Get-ChildItem env:\ComputerName
