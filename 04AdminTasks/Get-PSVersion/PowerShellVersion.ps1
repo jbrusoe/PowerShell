@@ -1,3 +1,5 @@
+#Ways to get PowerShell Version
+
 #Method 1
 #PS version 3 or greater must be present for this to work.
 Write-Output 'Method 1: Get PowerShell version from $PSVersionTable'
