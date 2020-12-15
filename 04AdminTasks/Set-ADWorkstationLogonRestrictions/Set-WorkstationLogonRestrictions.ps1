@@ -13,7 +13,7 @@ param (
 
 try {
 	Write-Verbose "Configuring Environment"
-	
+
 	Import-Module ActiveDirectory -ErrorAction Stop
 	$WorkstationMappings = Import-Csv $WorkstationMapping -ErrorAction Stop
 }
@@ -25,11 +25,11 @@ catch {
 foreach ($WorkstationMapping in $WorkstationMappings)
 {
 	Write-Output $("Current User: " + $WorkstationMapping.SamAccountName)
-	Write-Output $("Workstation to be added: " + $user.workstation)
+	Write-Output $("Workstation to be added: " + $WorkstationMapping.workstation)
 
-	$LDAPFilter = "(SamAccountName=" + $user.samaccountname + ")"
+	$LDAPFilter = "(SamAccountName=" + $WorkstationMapping.samaccountname + ")"
 	Write-Verbose "LDAP Filter: $LDAPFilter"
-	
+
 	$GetADUserParams = @{
 		LDAPFilter = $LDAPFilter
 		Properties = "userWorkstations"
@@ -40,42 +40,37 @@ foreach ($WorkstationMapping in $WorkstationMappings)
 	}
 	catch {
 		Write-Warning "Unable to get AD user object"
-		$ADUser = $null	
+		$ADUser = $null
 	}
-	
-	
+
 	if ($null -ne $ADUser)
 	{
 		Write-Output $("User DN: " + $ADUser.DistinguishedName)
-		
-		$Workstations = $usr.userWorkstations
-		
-		$NewWorkstationArray = @($user.workstation)
-		
+
+		$Workstations = $ADUser.userWorkstations
+
+		$NewWorkstationArray = @($ADUser.workstation)
+
 		foreach ($Workstation in $Workstations)
 		{
 			"Current workstations: " + $Workstation
-			
-			if ($NewWorkstationArray -contains $Workstation)
-			{
+
+			if ($NewWorkstationArray -contains $Workstation) {
 				Write-Output "Workstation already in restrictions list"
 			}
 			else
 			{
 				Write-Output "Adding workstation to users restriction list"
-				
+
 				$NewWorkstationArray += $Workstation
-			
+
 				$usr | set-aduser -LogonWorkstations ($NewWorkstationArray -join ",")
 			}
 		}
-	
 	}
-	else
-	{
-		Write-Output $("User not found: " + $user.samaccountname)
+	else {
+		Write-Output $("User not found: " + $ADUser.samaccountname)
 	}
-	
+
 	"`n*************************************`n"
-	
 }
