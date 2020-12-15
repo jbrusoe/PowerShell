@@ -1,8 +1,26 @@
-cls
+#Set-WorkstationLogonRestriction
+#Written by: Jeff Brusoe
+#Last Updated: December 14, 2020
+#
+#The purpose of this file is to set up restrictions on AD users
+#so that they can only log into certain workstations.
 
-import-module activedirectory
+[CmdletBindging()]
+param (
+	[ValidateNotNullOrEmpty()]
+	[string]$WorkstationMapping = "$PSScriptRoot\UserWorkstationInfo.csv"
+)
 
-$users = import-csv UserWorkstationInfo.csv
+try {
+	Write-Verbose "Configuring Environment"
+	
+	Import-Module ActiveDirectory -ErrorAction Stop
+	$WorkstationMappings = Import-Csv $WorkstationMapping -ErrorAction Stop
+}
+catch {
+	Write-Warning "Unable to configure environment. Program is exiting"
+	exit
+}
 
 foreach ($user in $users)
 {
