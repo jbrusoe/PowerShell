@@ -22,18 +22,31 @@ catch {
 	exit
 }
 
-foreach ($user in $users)
+foreach ($WorkstationMapping in $WorkstationMappings)
 {
-	"Current User: " + $user.samaccountname
-	"Workstation to be added: " + $user.workstation
+	Write-Output $("Current User: " + $WorkstationMapping.SamAccountName)
+	Write-Output $("Workstation to be added: " + $user.workstation)
 
 	$LDAPFilter = "(SamAccountName=" + $user.samaccountname + ")"
+	Write-Verbose "LDAP Filter: $LDAPFilter"
 	
-	$usr = get-aduser -LDAPFilter $LDAPFilter -properties userWorkstations
+	$GetADUserParams = @{
+		LDAPFilter = $LDAPFilter
+		Properties = "userWorkstations"
+		ErrorAction = "Stop"
+	}
+	try {
+		$ADUser = Get-ADUser @GetADUserParams
+	}
+	catch {
+		Write-Warning "Unable to get AD user object"
+		$ADUser = $null	
+	}
 	
-	if ($usr -ne $null)
+	
+	if ($null -ne $ADUser)
 	{
-		Write-Output $("User DN: " + $usr.DistinguishedName)
+		Write-Output $("User DN: " + $ADUser.DistinguishedName)
 		
 		$Workstations = $usr.userWorkstations
 		
