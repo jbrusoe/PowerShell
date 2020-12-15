@@ -64,7 +64,7 @@ foreach ($WorkstationMapping in $WorkstationMappings)
 
 				$NewWorkstationArray += $Workstation
 
-				$usr | set-aduser -LogonWorkstations ($NewWorkstationArray -join ",")
+				$ADUser | Set-ADUser -LogonWorkstations ($NewWorkstationArray -join ",")
 			}
 		}
 	}
@@ -72,5 +72,5 @@ foreach ($WorkstationMapping in $WorkstationMappings)
 		Write-Output $("User not found: " + $ADUser.samaccountname)
 	}
 
-	"`n*************************************`n"
+	Write-Output "`n*************************************`n"
 }
