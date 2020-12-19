@@ -16,7 +16,12 @@ try {
 
 	Import-Module ActiveDirectory -ErrorAction Stop
 	$WorkstationMappings = Import-Csv $WorkstationMapping -ErrorAction Stop
-}
+
+	$TranscriptFile = "$PSScriptRoot" +
+						(Get-Date -Format yyyy-MM-dd-HH-mm) +
+						"-SetWorkstationLogonRestrictions-SessionTranscript.txt"
+
+	Start-Transcript $TranscriptFile
 catch {
 	Write-Warning "Unable to configure environment. Program is exiting"
 	exit
@@ -64,7 +69,12 @@ foreach ($WorkstationMapping in $WorkstationMappings)
 
 				$NewWorkstationArray += $Workstation
 
-				$ADUser | Set-ADUser -LogonWorkstations ($NewWorkstationArray -join ",")
+				try {
+					$ADUser | Set-ADUser -LogonWorkstations ($NewWorkstationArray -join ",") -ErrorAction Stop
+				}
+				catch {
+					Write-Warning "Unable to configure workstation"
+				}
 			}
 		}
 	}
