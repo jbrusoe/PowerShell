@@ -13,11 +13,21 @@ function Test-WhatIfConfirm
 	}
 }
 
+Write-Output "`n`nWithout -WhatIf"
+Write-Output "Without -Confirm"
+Test-WhatIfConfirm
+
 Write-Output "`n`nWith -WhatIf"
+Write-Output "Without -Confirm"
 Test-WhatIfConfirm -WhatIf
 
 Write-Output "`n`nWithout -WhatIf"
-Test-WhatIfConfirm
-
-Write-Output "`n`nWith -Confirm"
+Write-Output "With -Confirm"
+Write-Output "ConfirmPreference: $ConfirmPreference"
+Write-Output "ConfirmImpact: Medium"
 Test-WhatIfConfirm -Confirm
+
+Write-Output `n`n'Setting $ConfirmPreference to High'
+$ConfirmPreference = "High"
+
+Write-Output "`n`nWithout"
