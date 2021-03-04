@@ -1,4 +1,4 @@
-function Test-ParameterAttribute
+function Test-ValidateNotNullOrEmpty
 {
 	[CmdletBinding()]
 	param (
@@ -6,14 +6,22 @@ function Test-ParameterAttribute
 		[string]$Name
 	)
 	
-	Write-Output $Name
+	if ($null -eq $Name) {
+		Write-Output "Name parameter wasn't used in function call"
+	}
+	else {
+		Write-Output $Name
+	}
 }
 
 Write-Output "Function call with -Name parameter"
-Test-ParameterAttribute -Name "Jeff"
+Test-ValidateNotNullOrEmpty -Name "Jeff"
 
-Write-Output "`nFunction call with $null value for -Name"
-Test-ParameterAttribute -Name $null
+Write-Output `n'Function call with $null value for -Name'
+Test-ValidateNotNullOrEmpty -Name $null
 
 Write-Output "`nFunction call with empty string for -Name"
-Test-ParameterAttribute -Name ""
+Test-ValidateNotNullOrEmpty -Name ""
+
+Write-Output "`nFunction call without using -Name parameter"
+Test-ValidateNotNullOrEmpty
