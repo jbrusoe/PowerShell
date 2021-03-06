@@ -1,3 +1,6 @@
+
+https://user-images.githubusercontent.com/40579055/110224491-1c57fa80-7eaa-11eb-91d3-d749567b27f2.mp4
+
 ## PowerShell Bubble Sort Demonstration
 
 This file is PowerShell implementation of the Bubble Sort algorithm. This algorithm goes through an array of numbers and swaps adjacent pairs if they are in the wrong order as shown below.
