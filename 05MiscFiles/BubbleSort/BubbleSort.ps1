@@ -15,13 +15,11 @@ for ($i = 0; $i -lt 50; $i++)
 {
 	$NewRandomNumber = Get-Random -Minimum 1 -Maximum 1001
 	
-	if (($i+1)%10 -eq 0)
-	{
-		Write-Host $NewRandomNumber
+	if (($i+1)%10 -eq 0) {
+		Write-Output $NewRandomNumber
 	}
-	else
-	{
-		Write-Host "$NewRandomNumber`t" -NoNewLine
+	else {
+		Write-Output "$NewRandomNumber`t" -NoNewLine
 	}
 	
 	$ArrayToSort[$i] = $NewRandomNumber
@@ -32,8 +30,8 @@ Write-Output `n"**********************************"
 #Array has been generated at this point
 
 #Begin bubble sort algorithm
-[int]$PassNumber = 1
-[bool]$ElementSwitched = $true
+$PassNumber = 1
+$ElementSwitched = $true
 
 while ($ElementSwitched)
 {
