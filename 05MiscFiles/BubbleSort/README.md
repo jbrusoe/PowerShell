@@ -6,7 +6,7 @@ This file is PowerShell implementation of the Bubble Sort algorithm. This algori
 
 Here's some output from this particular file:
 ![Bubble Sort Output1](https://raw.githubusercontent.com/jbrusoe/PowerShell/master/05MiscFiles/BubbleSort/BubbleSort-1-Output.JPG)
-<br>
+<p></p>
 ![Bubble Sort Output2](https://raw.githubusercontent.com/jbrusoe/PowerShell/master/05MiscFiles/BubbleSort/BubbleSort-2-Output.JPG)
-<br>
+<p></p>
 ![Bubble Sort Output3](https://github.com/jbrusoe/PowerShell/blob/master/05MiscFiles/BubbleSort/BubbleSort-Output.gif?raw=true)
