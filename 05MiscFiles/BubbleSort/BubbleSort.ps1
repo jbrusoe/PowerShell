@@ -16,10 +16,10 @@ for ($i = 0; $i -lt 50; $i++)
 	$NewRandomNumber = Get-Random -Minimum 1 -Maximum 1001
 	
 	if (($i+1)%10 -eq 0) {
-		Write-Output $NewRandomNumber
+		Write-Host $NewRandomNumber
 	}
 	else {
-		Write-Output "$NewRandomNumber`t" -NoNewLine
+		Write-Host "$NewRandomNumber`t" -NoNewLine
 	}
 	
 	$ArrayToSort[$i] = $NewRandomNumber
@@ -54,12 +54,10 @@ while ($ElementSwitched)
 	
 	for ($i = 0; $i -lt 50; $i++)
 	{
-		if (($i+1)%10 -eq 0)
-		{
+		if (($i+1)%10 -eq 0){
 			Write-Host $ArrayToSort[$i]
 		}
-		else
-		{
+		else {
 			$x = $ArrayToSort[$i]
 			Write-Host "$x`t" -NoNewLine
 		}
