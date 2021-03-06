@@ -33,15 +33,13 @@ Write-Output `n"**********************************"
 $PassNumber = 1
 $ElementSwitched = $true
 
-while ($ElementSwitched)
-{
+while ($ElementSwitched) {
 	$ElementSwitched = $false
 	
 	Write-Output "`nPass Number: $PassNumber`n"
 	$PassNumber++
 	
-	for ($i = 1; $i -lt 50; $i++)
-	{
+	for ($i = 1; $i -lt 50; $i++) {
 		if ($ArrayToSort[$i-1] -gt $ArrayToSort[$i]) {
 			#Elements will be swapped
 			$ElementSwitched = $true
@@ -51,8 +49,7 @@ while ($ElementSwitched)
 		}
 	}
 	
-	for ($i = 0; $i -lt 50; $i++)
-	{
+	for ($i = 0; $i -lt 50; $i++) {
 		if (($i+1)%10 -eq 0) {
 			Write-Host $ArrayToSort[$i]
 		}
