@@ -5,8 +5,11 @@ This file is PowerShell implementation of the Bubble Sort algorithm. This algori
 ![Bubble Sort Demo](http://www.xybernetics.com/techtalk/SortingAlgorithmsExplained/images/bubble1.gif)
 
 Here's some output from this particular file:
+Bubble Sort Output 1:
 ![Bubble Sort Output1](https://raw.githubusercontent.com/jbrusoe/PowerShell/master/05MiscFiles/BubbleSort/BubbleSort-1-Output.JPG)
-<p></p>
+
+Bubble Sort Output 2:
 ![Bubble Sort Output2](https://raw.githubusercontent.com/jbrusoe/PowerShell/master/05MiscFiles/BubbleSort/BubbleSort-2-Output.JPG)
-<p></p>
+
+Video Output:
 ![Bubble Sort Output3](https://github.com/jbrusoe/PowerShell/blob/master/05MiscFiles/BubbleSort/BubbleSort-Output.gif?raw=true)
