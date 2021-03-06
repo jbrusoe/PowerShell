@@ -1,4 +1,5 @@
 
+
 https://user-images.githubusercontent.com/40579055/110224491-1c57fa80-7eaa-11eb-91d3-d749567b27f2.mp4
 
 ## PowerShell Bubble Sort Demonstration
@@ -10,4 +11,4 @@ This file is PowerShell implementation of the Bubble Sort algorithm. This algori
 Here's some output from this particular file:
 ![Bubble Sort Output1](https://raw.githubusercontent.com/jbrusoe/PowerShell/master/05MiscFiles/BubbleSort/BubbleSort-1-Output.JPG)
 ![Bubble Sort Output2](https://raw.githubusercontent.com/jbrusoe/PowerShell/master/05MiscFiles/BubbleSort/BubbleSort-2-Output.JPG)
-![Bubble Sort Output3](https://github.com/jbrusoe/PowerShell/blob/master/05MiscFiles/BubbleSort/BubbleSort-Output.mp4?raw=true)
+![Bubble Sort Output3](https://github.com/jbrusoe/PowerShell/blob/master/05MiscFiles/BubbleSort/BubbleSort-Output.gif?raw=true)
