@@ -4,3 +4,4 @@ This file demonstrates the Collatz Conjecture (or 3n + 1 problem) in PowerShell.
 
 ![image](https://user-images.githubusercontent.com/40579055/110320335-1ebb7100-7fde-11eb-8227-998f9dbf2a61.png)
 
+### PowerShell Output
