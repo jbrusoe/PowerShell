@@ -2,6 +2,8 @@
 #Written by: Jeff Brusoe
 #Last Updated: March 10, 2021
 
+Clear-Host
+
 $ActualNumber = Get-Random -Minimum 1 -Maximum 101
 $NumberGuessed = $false
 $GuessCount = 0
@@ -9,7 +11,7 @@ $GuessCount = 0
 while (!$NumberGuessed)
 {
 	try {
-		[int]$UserGuess = Read-Host -Prompt "Guess number between 1 and 100" -ErrorAction Stop
+		[int]$UserGuess = Read-Host -Prompt "Guess a number between 1 and 100" -ErrorAction Stop
 
 		if (($UserGuess -lt 1) -OR ($UserGuess -gt 100)) {
 			throw "Invalid number input"
