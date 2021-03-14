@@ -23,8 +23,7 @@ while ($reader.Read())
 {
 	if ($PrintColumnTitles)
 	{
-		for ([int]$Column = 0; $Column -lt $reader.FieldCount; $Column++)
-		{
+		for ([int]$Column = 0; $Column -lt $reader.FieldCount; $Column++) {
 			Write-Host $($reader.GetName($Column) + "`t") -ForeGroundColor Green -NoNewLine
 		}
 
@@ -32,8 +31,7 @@ while ($reader.Read())
 		$PrintColumnTitles = $false;
 	}
 	
-	for ($i= 0; $i -lt $reader.FieldCount; $i++) 
-	{
+	for ($i= 0; $i -lt $reader.FieldCount; $i++) {
 		Write-Host $($reader.GetValue($i).ToString() + "`t") -NoNewLine
 	}
 	
