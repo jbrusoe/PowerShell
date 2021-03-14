@@ -1,1 +1,1 @@
-Uses Invoke-SQLCmd
+## Connect to MySQL with Invoke-SQLCmd
