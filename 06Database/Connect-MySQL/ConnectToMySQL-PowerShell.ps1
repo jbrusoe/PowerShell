@@ -23,25 +23,6 @@ $cmd.CommandText = $query
 
 $reader = $cmd.ExecuteReader()
 
-[bool]$PrintColumnTitles = $true
-
-while ($reader.Read()) 
-{
-	if ($PrintColumnTitles)
-	{
-		for ([int]$Column = 0; $Column -lt $reader.FieldCount; $Column++)
-		{
-			Write-Host $($reader.GetName($Column) + "`t") -ForeGroundColor Green -NoNewLine
-		}
-
-		Write-Host ""
-		$PrintColumnTitles = $false;
-	}
-	
-	for ($i= 0; $i -lt $reader.FieldCount; $i++) 
-	{
-		Write-Host $($reader.GetValue($i).ToString() + "`t") -NoNewLine
-	}
-	
-	Write-Host ""
-}
+$Datatable = New-Object System.Data.DataTable
+$Datatable.Load($reader)
+$Datatable | Format-Table
