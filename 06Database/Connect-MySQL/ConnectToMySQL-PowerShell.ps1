@@ -6,9 +6,9 @@
 [void][system.reflection.Assembly]::LoadWithPartialName("MySql.Data")
 
 [string]$MySQLHost = "localhost"
-[string]$User="peruser3"
-[string]$Password = "MyPassword"
-[string]$Database = "per"
+[string]$User="Jeff"
+[string]$Password = "PowerShellMySQL"
+[string]$Database = "co2db"
 
 $ConnStr = "server=" + $MySQLHost + ";uid=" + $User + ";pwd=" + $Password + ";database=" + $Database + ";"
 Write-Output "Connection String: $connStr"
@@ -16,7 +16,7 @@ Write-Output "Connection String: $connStr"
 $MySQLConn = New-Object MySql.Data.MySqlClient.MySqlConnection($ConnStr)
 $MySqlConn.Open()
 
-$query = "select * from per.co2;"
+$query = "select * from co2data;"
 
 $cmd = $MySQLConn.CreateCommand() 
 $cmd.CommandText = $query 
