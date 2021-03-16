@@ -6,7 +6,7 @@
 
 $conn = New-Object System.Data.SqlClient.SqlConnection
 
-$ConnectionString = "Server=tcp:MyServerIP;Database=MyDatabase;"
+$ConnectionString = "Server=MyServerIP;Database=MyDatabase;"
 $ConnectionString += "User ID=MyUserID;Password=PowerShellSQLServer;"
 $ConnectionString += "Trusted_Connection=False;Encrypt=True;"
 
