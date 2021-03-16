@@ -4,12 +4,12 @@
 #
 #Purpose: This file is intended to connect to MySQL with MS PowerShell.
 
-[void][System.Reflection.Assembly]::LoadWithPartialName("MySql.Data")
+$MySQLHost = "localhost"
+$User="Jeff"
+$Password = "PowerShellMySQL"
+$Database = "co2db"
 
-[string]$MySQLHost = "localhost"
-[string]$User="Jeff"
-[string]$Password = "PowerShellMySQL"
-[string]$Database = "co2db"
+[void][System.Reflection.Assembly]::LoadWithPartialName("MySql.Data")
 
 $ConnStr = "server=" + $MySQLHost +
             ";uid=" + $User +
