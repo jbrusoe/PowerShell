@@ -1,0 +1,1 @@
+## Numerical Integration with the Trapezoidal Rule
