@@ -78,7 +78,7 @@ while ($Threads.Invoker.IsCompleted -contains $false) {
 
 $RunspaceElapsedTime = $StopWatch.Elapsed
 #$Threads.Invoker
-$Threads.Runspace
+$Threads.Runspace.Stream
 <#
 $ThreadResults = @()
 foreach ($Thread in $Threads)
