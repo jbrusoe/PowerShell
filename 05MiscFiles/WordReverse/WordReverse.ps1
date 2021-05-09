@@ -6,6 +6,11 @@
 
 $OriginalWord = Read-Host "Enter a word"
 
+if ([string]::IsNullOrEmpty($OriginalWord)) {
+	Write-Warning "No word was entered"
+	exit
+}
+
 Write-Output "Method 1: Using loop and .NET string methods"
 Write-Output "Method 1 Original Word: $OriginalWord`n"
 
