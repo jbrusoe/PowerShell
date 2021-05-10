@@ -14,9 +14,6 @@ $Error.Clear()
 $Host.UI.RawUI.WindowTitle = "Disable-POPIMAP.ps1"
 
 $UserNumber = 0
-###################################
-#End of configure environment block
-###################################
 
 Write-Output "`nGenerating list of mailboxes..."
 
@@ -36,22 +33,17 @@ else
 		Write-Output $("IMAPEnabled: " + (Get-CasMailbox $Mailbox.PrimarySMTPAddress).IMAPEnabled)
 		Write-Output $("POPEnabled: " + (Get-CasMailbox $Mailbox.PrimarySMTPAddress).POPEnabled)
 		
-		try
-		{
+		try {
 			Write-Output "Disabling POP and IMAP"
 			Set-CasMailbox -Identity $Mailbox.PrimarySMTPAddress -POPEnabled $false -IMAPEnabled $false -ErrorAction Stop
 			Write-Output "POP and IMAP have been disabled."	
 		}
-		catch
-		{
+		catch {
 			Write-Output $("Error Setting " + $Mailbox.PrimarySMTPAddress)
 		}
-		Finally
-		{
+		Finally {
 			$Error.Clear()
 		}
 		Write-Output "***********************"
 	}
 }
-
-Exit
