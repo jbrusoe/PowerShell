@@ -23,7 +23,6 @@ catch {
 	exit
 }
 
-
 if (($Mailboxes | Measure-Object).Count -eq 0) {
 	Write-Output "POP and IMAP are already disabled on all mailboxes.`n"
 }
@@ -39,7 +38,15 @@ else
 		
 		try {
 			Write-Output "Disabling POP and IMAP"
-			Set-CasMailbox -Identity $Mailbox.PrimarySMTPAddress -POPEnabled $false -IMAPEnabled $false -ErrorAction Stop
+
+			$SetCasMailboxParams = @{
+				Identity = $Mailbox.PrimarySMTPAddress
+				POPEnabled = $false
+				IMAPEnabled = $false
+				ErrorAction = "Stop"
+			}
+			Set-CasMailbox @SetCasMailboxParams
+			
 			Write-Output "POP and IMAP have been disabled."	
 		}
 		catch {
