@@ -6,9 +6,6 @@
 #
 #This file ensures that POP and IMAP are disabled on all Exchange mailboxes.
 
-[CmdletBinding()]
-param ()
-
 Set-StrictMode -Version Latest
 $Error.Clear()
 $Host.UI.RawUI.WindowTitle = "Disable-POPIMAP.ps1"
