@@ -15,10 +15,17 @@ $Host.UI.RawUI.WindowTitle = "Disable-POPIMAP.ps1"
 
 $UserNumber = 0
 
-Write-Output "`nGenerating list of mailboxes..."
+try {
+	Write-Output "`nGenerating list of mailboxes..."
 
-$Mailboxes = Get-CasMailbox -ResultSize Unlimited |
-	Where-Object {($_.IMAPEnabled -eq $true) -OR ($_.POPEnabled -eq $true)}
+	$Mailboxes = Get-CasMailbox -ResultSize Unlimited -ErrorAction Stop|
+		Where-Object {($_.IMAPEnabled -eq $true) -OR ($_.POPEnabled -eq $true)}
+}
+catch {
+	Write-Warning "Unable to generate list of mailboxes"
+	exit
+}
+
 
 if (($Mailboxes | Measure-Object).Count -eq 0) {
 	Write-Output "POP and IMAP are already disabled on all mailboxes.`n"
