@@ -1,1 +1,1 @@
-Get-Service | Where {$_.Status -eq "Running"}
+Get-Service | Where-Object {$_.Status -eq "Running"}
